@@ -19,8 +19,8 @@ Reset on 3/6/18
 
 * 008. Welcome to Part 1 - Data Preprocessing
 * 009. Get the dataset
-* 010. Importing the libraries
-* 011. Importing the dataset
+* 010. Importing the libraries [numpy, matplotlib.pyplot, pandas] [-]
+* 011. **Importing the dataset**
 * 012. For Python learners, summary of Object-oriented programming: classes & objects
 * 013. Missing data
 * 014. Categorical data
