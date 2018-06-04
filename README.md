@@ -23,7 +23,7 @@ Reset on 3/6/18
 * 011. Importing the dataset
 * 012. For Python learners, summary of Object-oriented programming: classes & objects
 * 013. **Missing data** [_sklearn.preprocessing (Imputer)_] [_ifelse()_]
-* 014. Categorical data
+* 014. **Categorical data** [_sklearn.preprocessing (LabelEncoder; OneHotEncoder)_] [_xxx_]
 * 015. WARNING - Update
 * 016. Splitting the dataset into the Training set and Test set
 * 017. Feature Scaling
