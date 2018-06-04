@@ -40,65 +40,65 @@ Reset on 3/6/18
 
 * 020. How to get the dataset
 * 021. Dataset + Business Problem description
-* 022. SLR intuition - Step 1
-* 023. SLR intuition - Step 2
-* 024. SLR in Python - Step 1
-* 025. SLR in Python - Step 2
-* 026. SLR in Python - Step 3
-* 027. SLR in Python - Step 4
+* 022. SLR intuition pt1
+* 023. SLR intuition pt2
+* 024. SLR - Python pt1
+* 025. SLR - Python pt2
+* 026. SLR - Python pt3
+* 027. SLR - Python pt4
 
 ---
 
-* 028. SLR in R - Step 1
-* 029. SLR in R - Step 2
-* 030. SLR in R - Step 3
-* 031. SLR in R - Step 4
+* 028. SLR - R pt1
+* 029. SLR - R pt2
+* 030. SLR - R pt3
+* 031. SLR - R pt4
 
 
 ### §5 Multiple Linear Regression (MLR)
 
 * 032. How to get the dataset
 * 033. Dataset + Business Problem description
-* 034. MLR intuition - Step 1
-* 035. MLR intuition - Step 2
-* 036. MLR intuition - Step 3
-* 037. MLR intuition - Step 4
+* 034. MLR intuition pt1
+* 035. MLR intuition pt2
+* 036. MLR intuition pt3
+* 037. MLR intuition pt4
 * 038. Prerequisites: What is the P-Value?
-* 039. MLR intuition - Step 5
-* 040. MLR in Python - Step 1
-* 041. MLR in Python - Step 2
-* 042. MLR in Python - Step 3
-* 043. MLR in Python - Backward Elimination - Preparation
-* 044. MLR in Python - Backward Elimination - HOMEWORK !
-* 045. MLR in Python - Backward Elimination - Homework solution
-* 046. MLR in Python - Automatic Backward Elimination
+* 039. MLR intuition pt5
+* 040. MLR - Python pt1
+* 041. MLR - Python pt2
+* 042. MLR - Python pt3
+* 043. MLR - Python: Backward Elimination : Preparation
+* 044. MLR - Python: Backward Elimination : HOMEWORK !
+* 045. MLR - Python: Backward Elimination : Homework solution
+* 046. MLR - Python: Automatic Backward Elimination
 
 ---
 
-* 047. MLR in R - Step 1
-* 048. MLR in R - Step 2
-* 049. MLR in R - Step 3
-* 050. MLR in R - Backward Elimination - HOMEWORK !
-* 051. MLR in R - Backward Elimination - Homework solution
-* 052. MLR in R - Automatic Backward Elimination
+* 047. MLR - R pt1
+* 048. MLR - R pt2
+* 049. MLR - R pt3
+* 050. MLR - R: Backward Elimination : HOMEWORK !
+* 051. MLR - R: Backward Elimination : Homework solution
+* 052. MLR - R: Automatic Backward Elimination
 
 
 ### §6 Polynomial Regression
 
 * 053. Polynomial Regression intuition
 * 054. How to get the dataset
-* 055. Polynomial Regression in Python - Step 1
-* 056. Polynomial Regression in Python - Step 2
-* 057. Polynomial Regression in Python - Step 3
-* 058. Polynomial Regression in Python - Step 4
+* 055. Polynomial Regression - Python pt1
+* 056. Polynomial Regression - Python pt2
+* 057. Polynomial Regression - Python pt3
+* 058. Polynomial Regression - Python pt4
 * 059. Python Regression Template
 
 ---
 
-* 060. Polynomial Regression in R - Step 1
-* 061. Polynomial Regression in R - Step 2
-* 062. Polynomial Regression in R - Step 3
-* 063. Polynomial Regression in R - Step 4
+* 060. Polynomial Regression - R pt1
+* 061. Polynomial Regression - R pt2
+* 062. Polynomial Regression - R pt3
+* 063. Polynomial Regression - R pt4
 * 064. R Regression Template
 
 
@@ -106,16 +106,16 @@ Reset on 3/6/18
 
 * 065. How to get the dataset
 * 066. SVR intuition
-* 067. SVR in Python
-* 068. SVR in R
+* 067. SVR - Python
+* 068. SVR - R
 
 
 ### §8 Decision Tree Regression
 
 * 069. Decision Tree Regression intuition
 * 070. How to get the dataset
-* 071. Decision Tree Regression in Python
-* 072. Decision Tree Regression in R
+* 071. Decision Tree Regression - Python
+* 072. Decision Tree Regression - R
 
 
 ### §9 Random Forest Regression
