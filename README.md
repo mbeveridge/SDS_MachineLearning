@@ -27,9 +27,9 @@
 * [013](https://www.udemy.com/machinelearning/learn/v4/t/lecture/7675934?start=0) **Missing data** [`sklearn.preprocessing` (`Imputer`)] [`ifelse()`]
 * [014](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683428?start=0) **Categorical data** [`sklearn.preprocessing` (`LabelEncoder`; `OneHotEncoder`)] [`factor()`]
 * [015](https://www.udemy.com/machinelearning/learn/v4/t/lecture/10601930?start=0) WARNING - Update [re. 016 : `sklearn.cross_validation` (`train_test_split`) is deprecated]
-* [016](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683430?start=0) **Splitting the dataset into Training set & Test set** [`sklearn.model_selection` (`train_test_split`)] [`caTools`]
-* [017](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683432?start=0) **Feature Scaling** [] []
-* 018 And here is our Data Preprocessing Template!
+* [016](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683430?start=0) Splitting the dataset into **Training set & Test set** [`sklearn.model_selection` (`train_test_split`)] [`caTools`]
+* [017](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683432?start=0) **Feature Scaling** [`sklearn.preprocessing` (`StandardScaler`)] [`scale()`]
+* [018](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683434?start=0) And here is our **Data Preprocessing Template**!
 
 
 ## Part 2: Regression
