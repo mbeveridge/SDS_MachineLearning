@@ -1,6 +1,8 @@
-28/6-6/8/17 : upto §9 Lecture74 ("Random Forest Regression in Python") in the Python path. ("53 of 289 items complete")
+[SDS page](https://www.superdatascience.com/machine-learning/) for the datasets
 
-Reset on 3/6/18
+28/6-6/8/17 : upto §9L74 ("Random Forest Regression in Python") on Python path. ("53 of 289 items complete")
+
+3/6/18 : Reset
 
 
 ### §1 Welcome to the course!
@@ -19,13 +21,13 @@ Reset on 3/6/18
 
 * [008](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683408?start=0) Welcome to Part 1 - Data Preprocessing
 * [009](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6682576?start=0) Get the dataset
-* [010](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6151022?start=0) Importing the libraries [_numpy; matplotlib.pyplot; pandas_] [_-_]
+* [010](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6151022?start=0) Importing the libraries [`numpy`; `matplotlib.pyplot`; `pandas`] [-]
 * [011](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5859238?start=0) Importing the dataset
 * [012](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5859706?start=0) For Python learners, summary of Object-oriented programming: classes & objects
-* [013](https://www.udemy.com/machinelearning/learn/v4/t/lecture/7675934?start=0) **Missing data** [_sklearn.preprocessing (Imputer)_] [_ifelse()_]
-* [014](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683428?start=0) **Categorical data** [_sklearn.preprocessing (LabelEncoder; OneHotEncoder)_] [_xxx_]
-* 015 WARNING - Update
-* 016 Splitting the dataset into the Training set and Test set
+* [013](https://www.udemy.com/machinelearning/learn/v4/t/lecture/7675934?start=0) **Missing data** [`sklearn.preprocessing` (`Imputer`)] [`ifelse()`]
+* [014](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683428?start=0) **Categorical data** [`sklearn.preprocessing` (`LabelEncoder`; `OneHotEncoder`)] [`factor()`]
+* [015](https://www.udemy.com/machinelearning/learn/v4/t/lecture/10601930?start=0) WARNING - Update [`sklearn.model_selection` (`train_test_split`) ...NOT `sklearn.cross_validation` (`train_test_split`), which is deprecated]
+* [016](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683430?start=0) **Splitting the dataset into the Training set & Test set**
 * 017 Feature Scaling
 * 018 And here is our Data Preprocessing Template!
 
