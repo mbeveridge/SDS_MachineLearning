@@ -5,25 +5,25 @@ Reset on 3/6/18
 
 ### §1 Welcome to the course!
 
-* 001. Applications of Machine Learning
-* 002. Why Machine Learning is the Future
-* 003. Important notes, tips & tricks for this course
-* 004. Installing Python and Anaconda
-* 005. Update: Recommended Anaconda version
-* 006. Installing R and RStudio
-* 007. BONUS: Meet your instructors
+* [001](). Applications of Machine Learning
+* [002](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6087182?start=0). Why Machine Learning is the Future
+* [003](https://www.udemy.com/machinelearning/learn/v4/t/lecture/9180776?start=0). Important notes, tips & tricks for this course
+* [004](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5728032?start=0). Installing Python and Anaconda
+* [005](https://www.udemy.com/machinelearning/learn/v4/t/lecture/7646982?start=0). Update: Recommended Anaconda version
+* [006](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5728004?start=0). Installing R and RStudio
+* [007](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5741642?start=0). BONUS: Meet your instructors
 
 
 ## Part 1: Data Preprocessing
 ### §2 Data Preprocessing
 
-* 008. Welcome to Part 1 - Data Preprocessing
-* 009. Get the dataset
-* 010. Importing the libraries [_numpy; matplotlib.pyplot; pandas_] [_-_]
-* 011. Importing the dataset
-* 012. For Python learners, summary of Object-oriented programming: classes & objects
-* 013. **Missing data** [_sklearn.preprocessing (Imputer)_] [_ifelse()_]
-* 014. **Categorical data** [_sklearn.preprocessing (LabelEncoder; OneHotEncoder)_] [_xxx_]
+* [008](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683408?start=0). Welcome to Part 1 - Data Preprocessing
+* [009](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6682576?start=0). Get the dataset
+* [010](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6151022?start=0). Importing the libraries [_numpy; matplotlib.pyplot; pandas_] [_-_]
+* [011](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5859238?start=0). Importing the dataset
+* [012](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5859706?start=0). For Python learners, summary of Object-oriented programming: classes & objects
+* [013](https://www.udemy.com/machinelearning/learn/v4/t/lecture/7675934?start=0). **Missing data** [_sklearn.preprocessing (Imputer)_] [_ifelse()_]
+* [014](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683428?start=0). **Categorical data** [_sklearn.preprocessing (LabelEncoder; OneHotEncoder)_] [_xxx_]
 * 015. WARNING - Update
 * 016. Splitting the dataset into the Training set and Test set
 * 017. Feature Scaling
