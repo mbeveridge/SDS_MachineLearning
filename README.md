@@ -44,8 +44,8 @@
 * [021](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5795729?start=0) Dataset + Business Problem description
 * [022](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5772258?start=0) SLR intuition pt1
 * [023](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5772186?start=0) SLR intuition pt2
-* 024 SLR - Python pt1
-* 025 SLR - Python pt2
+* [024](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5747026?start=0) SLR - Python pt1
+* [025](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5747020?start=0) SLR - **Python pt2** [`sklearn.linear_model` (`LinearRegression`)]
 * 026 SLR - Python pt3
 * 027 SLR - Python pt4
 
