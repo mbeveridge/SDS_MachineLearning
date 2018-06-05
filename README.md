@@ -26,8 +26,8 @@
 * [012](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5859706?start=0) For Python learners, summary of Object-oriented programming: classes & objects
 * [013](https://www.udemy.com/machinelearning/learn/v4/t/lecture/7675934?start=0) **Missing data** [`sklearn.preprocessing` (`Imputer`)] [`ifelse()`]
 * [014](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683428?start=0) **Categorical data** [`sklearn.preprocessing` (`LabelEncoder`; `OneHotEncoder`)] [`factor()`]
-* [015](https://www.udemy.com/machinelearning/learn/v4/t/lecture/10601930?start=0) WARNING - Update [016 should use `sklearn.model_selection` (`train_test_split`) ...NOT `sklearn.cross_validation` (`train_test_split`), which is deprecated]
-* [016](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683430?start=0) **Splitting the dataset into the Training set & Test set** [`sklearn.model_selection` (`train_test_split`)] [`caTools`]
+* [015](https://www.udemy.com/machinelearning/learn/v4/t/lecture/10601930?start=0) WARNING - Update [re. 016 : `sklearn.cross_validation` (`train_test_split`) is deprecated]
+* [016](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683430?start=0) **Splitting the dataset into Training set & Test set** [`sklearn.model_selection` (`train_test_split`)] [`caTools`]
 * [017](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683432?start=0) **Feature Scaling** [] []
 * 018 And here is our Data Preprocessing Template!
 
