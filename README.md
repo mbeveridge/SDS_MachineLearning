@@ -40,10 +40,10 @@
 
 ### §4 Simple Linear Regression (SLR)
 
-* 020 How to get the dataset
-* 021 Dataset + Business Problem description
-* 022 SLR intuition pt1
-* 023 SLR intuition pt2
+* [020](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683104?start=0) How to get the dataset
+* [021](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5795729?start=0) Dataset + Business Problem description
+* [022](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5772258?start=0) SLR intuition pt1
+* [023](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5772186?start=0) SLR intuition pt2
 * 024 SLR - Python pt1
 * 025 SLR - Python pt2
 * 026 SLR - Python pt3
