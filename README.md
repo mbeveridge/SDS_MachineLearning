@@ -47,11 +47,11 @@
 * [024](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5747026?start=0) SLR - Python pt1
 * [025](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5747020?start=0) SLR - Python pt2 [`sklearn.linear_model` (`LinearRegression`)]
 * [026](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5742774?start=0) SLR - Python pt3
-* 027 SLR - Python pt4
+* [027](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5768342?start=0) SLR - **Python pt4**
 
 ---
 
-* 028 SLR - R pt1
+* [028](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683454?start=0) SLR - R pt1
 * 029 SLR - R pt2
 * 030 SLR - R pt3
 * 031 SLR - R pt4
