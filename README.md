@@ -59,11 +59,11 @@
 
 ### §5 Multiple Linear Regression (MLR)
 
-* 032 How to get the dataset
-* 033 Dataset + Business Problem description
-* 034 MLR intuition pt1
-* 035 MLR intuition pt2
-* 036 MLR intuition pt3
+* [032](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683120?start=0) How to get the dataset
+* [033](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5795731?start=0) Dataset + Business Problem description
+* [034](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5772040?start=0) MLR intuition pt1
+* [035](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5772042?start=0) MLR intuition pt2
+* [036](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5772046?start=0) MLR intuition pt3
 * 037 MLR intuition pt4
 * 038 Prerequisites: What is the P-Value?
 * 039 MLR intuition pt5
