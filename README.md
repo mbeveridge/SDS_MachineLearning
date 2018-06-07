@@ -53,8 +53,8 @@
 
 * [028](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683454?start=0) SLR - R pt1
 * [029](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683506?start=0) SLR - **R pt2** [`lm()`]
-* [030](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683508?start=0) SLR - R pt3
-* 031 SLR - R pt4
+* [030](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683508?start=0) SLR - R pt3 [`predict()`]
+* [031](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5768350?start=0) SLR - **R pt4** [`ggplot`]
 
 
 ### §5 Multiple Linear Regression (MLR)
