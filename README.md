@@ -44,6 +44,9 @@
 * [021](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5795729?start=0) Dataset + Business Problem description
 * [022](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5772258?start=0) SLR intuition pt1
 * [023](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5772186?start=0) SLR intuition pt2
+
+---
+
 * [024](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5747026?start=0) SLR - Python pt1
 * [025](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5747020?start=0) SLR - Python pt2 [`sklearn.linear_model` (`LinearRegression`)]
 * [026](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5742774?start=0) SLR - Python pt3
@@ -63,10 +66,13 @@
 * [033](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5795731?start=0) Dataset + Business Problem description
 * [034](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5772040?start=0) MLR intuition pt1
 * [035](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5772042?start=0) MLR intuition pt2
-* [036](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5772046?start=0) MLR intuition pt3
-* 037 MLR intuition pt4
-* 038 Prerequisites: What is the P-Value?
-* 039 MLR intuition pt5
+* [036](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5772046?start=0) MLR intuition pt3 [dummy variables]
+* [037](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5772050?start=0) MLR **intuition pt4** [Dummy Variable Trap]
+* [038](https://www.udemy.com/machinelearning/learn/v4/t/lecture/9202750?start=0) Prerequisites: What is the P-Value?
+* [039](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5772052?start=0) MLR **intuition pt5** [Building a model]
+
+---
+
 * 040 MLR - Python pt1
 * 041 MLR - Python pt2
 * 042 MLR - Python pt3
@@ -89,6 +95,9 @@
 
 * 053 Polynomial Regression intuition
 * 054 How to get the dataset
+
+---
+
 * 055 Polynomial Regression - Python pt1
 * 056 Polynomial Regression - Python pt2
 * 057 Polynomial Regression - Python pt3
