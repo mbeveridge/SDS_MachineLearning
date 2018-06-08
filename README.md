@@ -67,13 +67,13 @@
 * [034](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5772040?start=0) MLR intuition pt1
 * [035](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5772042?start=0) MLR intuition pt2
 * [036](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5772046?start=0) MLR intuition pt3 [dummy variables]
-* [037](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5772050?start=0) MLR **intuition pt4** [Dummy Variable Trap]
+* [037](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5772050?start=0) MLR **intuition pt4** ["Dummy Variable Trap"]
 * [038](https://www.udemy.com/machinelearning/learn/v4/t/lecture/9202750?start=0) Prerequisites: What is the P-Value?
-* [039](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5772052?start=0) MLR **intuition pt5** [Building a model]
+* [039](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5772052?start=0) MLR **intuition pt5** [Building a model ...5 methods, step-by-step]
 
 ---
 
-* 040 MLR - Python pt1
+* [040](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683494?start=0) MLR - Python pt1
 * 041 MLR - Python pt2
 * 042 MLR - Python pt3
 * 043 MLR - Python: Backward Elimination : Preparation
