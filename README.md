@@ -76,7 +76,7 @@
 * [040](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683494?start=0) MLR - **Python pt1** [`sklearn.preprocessing` (`LabelEncoder`; `OneHotEncoder`)]
 * [041](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683500?start=0) MLR - Python pt2 [`sklearn.linear_model` (`LinearRegression`)]
 * [042](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5855944?start=0) MLR - Python pt3
-* [043](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5789776?start=0) MLR - **Python (Backward Elimination): Prep** [`statsmodels.formula.api`. Add b0 with `np.append()` & `np.ones()`]
+* [043](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5789776?start=0) MLR - **Python (Backward Elimination): Prep** [`statsmodels.formula.api`. Add b0 with `np.append()`&`np.ones()`]
 * [044](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5789330?start=0) MLR - **Python (Backward Elimination): HOMEWORK !** [`statsmodels.formula.api` (`OLS`)]
 * [045](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5789342?start=0) MLR - Python (Backward Elimination): Homework solution
 * 046 MLR - Python (Automatic Backward Elimination)
