@@ -75,8 +75,8 @@
 
 * [040](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683494?start=0) MLR - **Python pt1** [`sklearn.preprocessing` (`LabelEncoder`; `OneHotEncoder`)]
 * [041](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683500?start=0) MLR - Python pt2 [`sklearn.linear_model` (`LinearRegression`)]
-* 042 MLR - Python pt3
-* 043 MLR - Python: Backward Elimination : Preparation
+* [042](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5855944?start=0) MLR - Python pt3
+* [043](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5789776?start=0) MLR - Python: Backward Elimination : Preparation
 * 044 MLR - Python: Backward Elimination : HOMEWORK !
 * 045 MLR - Python: Backward Elimination : Homework solution
 * 046 MLR - Python: Automatic Backward Elimination
