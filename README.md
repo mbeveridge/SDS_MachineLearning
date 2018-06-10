@@ -79,12 +79,12 @@
 * [043](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5789776?start=0) MLR - **Python (Backward Elimination): Prep** [`statsmodels.formula.api`. Add b0 with `np.append()`&`np.ones()`]
 * [044](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5789330?start=0) MLR - **Python (Backward Elimination): HOMEWORK !** [`statsmodels.formula.api` (`OLS`)]
 * [045](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5789342?start=0) MLR - Python (Backward Elimination): Homework solution
-* [046](https://www.udemy.com/machinelearning/learn/v4/t/lecture/9201998?start=0) MLR - Python (Backward Elimination): automatic [with `for` loops]
+* [046](https://www.udemy.com/machinelearning/learn/v4/t/lecture/9201998?start=0) MLR - Python (Backward Elimination): automatic [using `for` loops]
 
 ---
 
-* [047](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5734722?start=0) MLR - R pt1
-* 048 MLR - R pt2
+* [047](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5734722?start=0) MLR - **R pt1** [`factor()`]
+* [048](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5734728?start=0) MLR - R pt2 [`lm()`]
 * 049 MLR - R pt3
 * 050 MLR - R (Backward Elimination): HOMEWORK !
 * 051 MLR - R (Backward Elimination): Homework solution
