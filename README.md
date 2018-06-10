@@ -85,7 +85,7 @@
 
 * [047](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5734722?start=0) MLR - **R pt1** [`factor()`]
 * [048](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5734728?start=0) MLR - R pt2 [`lm()`]
-* 049 MLR - R pt3
+* [049](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5855946?start=0) MLR - R pt3
 * 050 MLR - R (Backward Elimination): HOMEWORK !
 * 051 MLR - R (Backward Elimination): Homework solution
 * 052 MLR - R (Backward Elimination): automatic
