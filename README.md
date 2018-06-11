@@ -87,8 +87,8 @@
 * [048](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5734728?start=0) MLR - R pt2 [`lm()`]
 * [049](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5855946?start=0) MLR - R pt3
 * [050](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5792106?start=0) MLR - **R (Backward Elimination): HOMEWORK !**
-* 051 MLR - R (Backward Elimination): Homework solution
-* 052 MLR - R (Backward Elimination): automatic
+* [051](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5793268?start=0) MLR - R (Backward Elimination): Homework solution
+* [052](https://www.udemy.com/machinelearning/learn/v4/t/lecture/9202040?start=0) MLR - R (Backward Elimination): automatic [using `for` loop]
 
 
 ### §6 Polynomial Regression
