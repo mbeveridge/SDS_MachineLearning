@@ -101,8 +101,8 @@
 * [055](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5813756?start=0) Polynomial Regression - Python pt1 [Business Problem description @5'25]
 * [056](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5935932?start=0) Polynomial Regression - **Python pt2** [`sklearn.linear_model` (`LinearRegression`) ; `sklearn.preprocessing` (`PolynomialFeatures`)]
 * [057](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5846946?start=0) Polynomial Regression - Python pt3
-* 058 Polynomial Regression - Python pt4
-* 059 Python Regression Template
+* [058](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5813772?start=0) Polynomial Regression - **Python pt4**
+* [059](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5846952?start=0) **Python Regression Template**
 
 ---
 
