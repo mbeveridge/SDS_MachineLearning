@@ -106,8 +106,8 @@
 
 ---
 
-* 060 Polynomial Regression - R pt1
-* 061 Polynomial Regression - R pt2
+* [060](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5817828?start=0) Polynomial Regression - R pt1 [Business Problem description @2'00]
+* [061](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5817830?start=0) Polynomial Regression - **R pt2** [`lm()`]
 * 062 Polynomial Regression - R pt3
 * 063 Polynomial Regression - R pt4
 * 064 R Regression Template
