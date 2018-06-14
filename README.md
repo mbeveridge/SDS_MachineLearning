@@ -109,8 +109,8 @@
 * [060](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5817828?start=0) Polynomial Regression - R pt1 [Business Problem description @2'00]
 * [061](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5817830?start=0) Polynomial Regression - **R pt2** [`lm()`]
 * [062](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5846948?start=0) Polynomial Regression - R pt3 [`ggplot2` ; `predict()`]
-* [063](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5819200?start=0) Polynomial Regression - R pt4
-* 064 R Regression Template
+* [063](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5819200?start=0) Polynomial Regression - **R pt4** [`predict()`]
+* [064](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5846954?start=0) **R Regression Template**
 
 
 ### §7 Support Vector Regression (SVR)
