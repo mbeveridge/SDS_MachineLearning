@@ -57,7 +57,7 @@
 * [028](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683454?start=0) SLR - R pt1
 * [029](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683506?start=0) SLR - **R pt2** [`lm()`]
 * [030](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683508?start=0) SLR - R pt3 [`predict()`]
-* [031](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5768350?start=0) SLR - **R pt4** [`ggplot`]
+* [031](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5768350?start=0) SLR - **R pt4** [`ggplot2`]
 
 
 ### §5 Multiple Linear Regression (MLR)
@@ -108,8 +108,8 @@
 
 * [060](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5817828?start=0) Polynomial Regression - R pt1 [Business Problem description @2'00]
 * [061](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5817830?start=0) Polynomial Regression - **R pt2** [`lm()`]
-* [062](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5846948?start=0) Polynomial Regression - R pt3
-* 063 Polynomial Regression - R pt4
+* [062](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5846948?start=0) Polynomial Regression - R pt3 [`ggplot2` ; `predict()`]
+* [063](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5819200?start=0) Polynomial Regression - R pt4
 * 064 R Regression Template
 
 
