@@ -117,13 +117,13 @@
 
 * [065](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683126?start=0) How to get the dataset
 * [066](https://www.udemy.com/machinelearning/learn/v4/t/lecture/10459548?start=0) SVR intuition [!?!? ; [link](https://link.springer.com/chapter/10.1007/978-1-4302-5990-9_4) shown on chart]
-* [067](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5952220?start=0) SVR - Python [`sklearn.svm` (`SVR`) ; `sklearn.preprocessing` (`StandardScaler`)]
-* [068](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5846958?start=0) SVR - R
+* [067](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5952220?start=0) SVR - **Python** [`sklearn.svm` (`SVR`) ; `sklearn.preprocessing` (`StandardScaler`)]
+* [068](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5846958?start=0) SVR - **R** [`e1071`]
 
 
 ### §8 Decision Tree Regression
 
-* 069 Decision Tree Regression intuition
+* [069](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5732730?start=0) Decision Tree Regression intuition
 * 070 How to get the dataset
 * 071 Decision Tree Regression - Python
 * 072 Decision Tree Regression - R
