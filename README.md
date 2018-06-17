@@ -116,7 +116,7 @@
 ### §7 Support Vector Regression (SVR)
 
 * [065](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683126?start=0) How to get the dataset
-* [066](https://www.udemy.com/machinelearning/learn/v4/t/lecture/10459548?start=0) SVR intuition [!?!? ; [link](https://link.springer.com/chapter/10.1007/978-1-4302-5990-9_4) shown on chart]
+* [066](https://www.udemy.com/machinelearning/learn/v4/t/lecture/10459548?start=0) SVR intuition [!?confusing!? ; [link](https://link.springer.com/chapter/10.1007/978-1-4302-5990-9_4) shown on chart]
 * [067](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5952220?start=0) SVR - **Python** [`sklearn.svm` (`SVR`) ; `sklearn.preprocessing` (`StandardScaler`)]
 * [068](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5846958?start=0) SVR - **R** [`e1071`]
 
