@@ -123,10 +123,10 @@
 
 ### §8 Decision Tree Regression
 
-* [069](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5732730?start=0) Decision Tree Regression intuition
-* 070 How to get the dataset
-* 071 Decision Tree Regression - Python
-* 072 Decision Tree Regression - R
+* [069](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5732730?start=0) Decision Tree Regression **intuition**
+* [070](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683130?start=0) How to get the dataset
+* [071](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5846962?start=0) Decision Tree Regression - **Python** [`sklearn.tree` (`DecisionTreeRegressor`)]
+* 072 Decision Tree Regression - **R**
 
 
 ### §9 Random Forest Regression
