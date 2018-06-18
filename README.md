@@ -126,7 +126,7 @@
 * [069](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5732730?start=0) Decision Tree Regression **intuition**
 * [070](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683130?start=0) How to get the dataset
 * [071](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5846962?start=0) Decision Tree Regression - **Python** [`sklearn.tree` (`DecisionTreeRegressor`)]
-* 072 Decision Tree Regression - **R**
+* [072](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5846964?start=0) Decision Tree Regression - **R** [`rpart`]
 
 
 ### §9 Random Forest Regression
