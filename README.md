@@ -140,9 +140,9 @@
 ### §10 Evaluating Regression Models performance
 
 * [077](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5773210?start=0) R-Squared intuition
-* 078 ADjusted R-Squared intuition
-* 079 Evaluating Regression Models performance - Homework's final part
-* 080 Interpreting Linear Regression Coefficients
+* [078](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5773214?start=0) Adjusted R-Squared **intuition**
+* [079](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5794346?start=0) **Evaluating Regression Models performance** - Homework's final part [re. §5]
+* [080](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5795482?start=0) Interpreting Linear Regression Coefficients
 * 081 Conclusion of 'Part 2: Regression'
 
 
