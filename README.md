@@ -134,16 +134,16 @@
 * [073](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5732732?start=0) Random Forest Regression **intuition**
 * [074](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683124?start=0) How to get the dataset
 * [075](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5855120?start=0) Random Forest Regression in **Python** [`sklearn.ensemble` (`RandomForestRegressor`)]
-* 076 Random Forest Regression in **R**
+* [076](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5855028?start=0) Random Forest Regression in **R** [`randomForest`]
 
 
-### §10 Evaluating Regression Models Performance
+### §10 Evaluating Regression Models performance
 
-* 077
-* 078
-* 079
-* 080
-* 081
+* [077](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5773210?start=0) R-Squared intuition
+* 078 ADjusted R-Squared intuition
+* 079 Evaluating Regression Models performance - Homework's final part
+* 080 Interpreting Linear Regression Coefficients
+* 081 Conclusion of 'Part 2: Regression'
 
 
 ## Part 3: Classification
