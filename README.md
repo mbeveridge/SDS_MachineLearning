@@ -131,14 +131,19 @@
 
 ### §9 Random Forest Regression
 
-* 073 Random Forest Regression intuition
-* 074 How to get the dataset
-* 075 
-* 076 
+* [073](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5732732?start=0) Random Forest Regression **intuition**
+* [074](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683124?start=0) How to get the dataset
+* [075](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5855120?start=0) Random Forest Regression in **Python** [`sklearn.ensemble` (`RandomForestRegressor`)]
+* 076 Random Forest Regression in **R**
 
 
-### §10
+### §10 Evaluating Regression Models Performance
 
+* 077
+* 078
+* 079
+* 080
+* 081
 
 
 ## Part 3: Classification
