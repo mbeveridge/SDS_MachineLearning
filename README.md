@@ -155,11 +155,11 @@
 ### §12 Logistic Regression
 
 * [083](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6270024?start=0) Logistic Regression intuition
-* 084 How to get the dataset
+* [084](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683132?start=0) How to get the dataset
 
 ---
 
-* 085 Logistic Regression - Python pt1
+* [085](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5684812?start=0) Logistic Regression - Python pt1
 * 086 Logistic Regression - Python pt2
 * 087 Logistic Regression - Python pt3
 * 088 Logistic Regression - Python pt4
