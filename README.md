@@ -143,12 +143,39 @@
 * [078](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5773214?start=0) Adjusted R-Squared **intuition**
 * [079](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5794346?start=0) **Evaluating Regression Models performance** - Homework's final part [re. §5]
 * [080](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5795482?start=0) Interpreting Linear Regression Coefficients
-* 081 Conclusion of 'Part 2: Regression'
+* [081](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6403742?start=0) Conclusion of 'Part 2: Regression'
 
 
 ## Part 3: Classification
 ### §11 Classification
+
+* [082](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5765916?start=0) Welcome to Part 3 - Classification
+
+
 ### §12 Logistic Regression
+
+* [083](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6270024?start=0) Logistic Regression intuition
+* 084 How to get the dataset
+
+---
+
+* 085 Logistic Regression - Python pt1
+* 086 Logistic Regression - Python pt2
+* 087 Logistic Regression - Python pt3
+* 088 Logistic Regression - Python pt4
+* 089 Logistic Regression - Python pt5
+* 090 Python Classification Template
+
+---
+
+* 091 Logistic Regression - R pt1
+* 092 Logistic Regression - R pt2
+* 093 Logistic Regression - R pt3
+* 094 Logistic Regression - R pt4
+* 095 Logistic Regression - R pt5
+* 096 R Classification Template
+
+
 ### §13 K-Nearest Neighbors (K-NN)
 ### §14 Support Vector Machine (SVM)
 ### §15 Kernel SVM
