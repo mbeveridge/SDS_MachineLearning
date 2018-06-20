@@ -147,6 +147,17 @@
 
 
 ## Part 3: Classification
+### §11 Classification
+### §12 Logistic Regression
+### §13 K-Nearest Neighbors (K-NN)
+### §14 Support Vector Machine (SVM)
+### §15 Kernel SVM
+### §16 Naive Bayes
+### §17 Decision Tree Classification
+### §18 Random Forest Classification
+### §19 Evaluating Classification Models performance
+
+
 ## Part 4: Clustering
 ## Part 5: Association Rule Learning
 ## Part 6: Reinforcement Learning
