@@ -162,8 +162,8 @@
 * [085](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5684812?start=0) Logistic Regression - **Python pt1** [`sklearn.cross_validation` (`train_test_split`) ; `sklearn.preprocessing` (`StandardScaler`)]
 * [086](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5684814?start=0) Logistic Regression - Python pt2 [`sklearn.linear_model` (`LogisticRegression`)]
 * [087](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5684822?start=0) Logistic Regression - Python pt3
-* [088](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5684824?start=0) Logistic Regression - **Python pt4** [`sklearn.metrics` (`confusion_matrix`)]
-* 089 Logistic Regression - Python pt5
+* [088](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5684824?start=0) Logistic Regression - Python pt4 [`sklearn.metrics` (`confusion_matrix`)]
+* [089](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5728846?start=0) Logistic Regression - **Python pt5** [`matplotlib.colors` (`ListedColormap`)]
 * 090 Python Classification Template
 
 ---
