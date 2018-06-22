@@ -164,11 +164,11 @@
 * [087](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5684822?start=0) Logistic Regression - Python pt3
 * [088](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5684824?start=0) Logistic Regression - Python pt4 [`sklearn.metrics` (`confusion_matrix`)]
 * [089](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5728846?start=0) Logistic Regression - **Python pt5** [`matplotlib.colors` (`ListedColormap`)]
-* 090 Python Classification Template
+* [090](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5858514?start=0) **Python Classification Template**
 
 ---
 
-* 091 Logistic Regression - R pt1
+* [091](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5684826?start=0) Logistic Regression - R pt1
 * 092 Logistic Regression - R pt2
 * 093 Logistic Regression - R pt3
 * 094 Logistic Regression - R pt4
@@ -189,9 +189,9 @@
 ## Part 5: Association Rule Learning
 ## Part 6: Reinforcement Learning
 ## Part 7: Natural Language Processing
-## Part 8: Deep Learning
-## Part 9: Dimensionality Reduction
-## Part 10: Model Selection & Boosting
+## Part 8: Deep Learning
+## Part 9: Dimensionality Reduction
+## Part 10: Model Selection & Boosting
 
 
 
