@@ -170,7 +170,7 @@
 
 * [091](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5684826?start=0) Logistic Regression - R pt1 [`caTools`]
 * [092](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5684978?start=0) Logistic Regression - R pt2 [`glm()`]
-* 093 Logistic Regression - R pt3
+* [093](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685394?start=0) Logistic Regression - R pt3
 * 094 Logistic Regression - R pt4
 * 095 Logistic Regression - R pt5
 * 096 R Classification Template
