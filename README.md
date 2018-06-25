@@ -173,7 +173,7 @@
 * [093](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685394?start=0) Logistic Regression - R pt3 [`predict()`]
 * [094](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685396?start=0) Logistic Regression - R pt4
 * [095](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5730446?start=0) Logistic Regression - **R pt5** [`ElemStatLearn` ...not available on Anaconda]
-* 096 R Classification Template
+* [096](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5858516?start=0) R Classification Template
 
 
 ### §13 K-Nearest Neighbors (K-NN)
