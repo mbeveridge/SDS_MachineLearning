@@ -173,10 +173,17 @@
 * [093](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685394?start=0) Logistic Regression - R pt3 [`predict()`]
 * [094](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685396?start=0) Logistic Regression - R pt4
 * [095](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5730446?start=0) Logistic Regression - **R pt5** [`ElemStatLearn` ...not available on Anaconda]
-* [096](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5858516?start=0) R Classification Template
+* [096](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5858516?start=0) **R Classification Template**
 
 
 ### §13 K-Nearest Neighbors (K-NN)
+
+* [097](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714404?start=0) K-Nearest Neighbor intuition
+* 098 How to get the dataset
+* 099 K-NN in Python
+* 100 K-NN in R
+
+
 ### §14 Support Vector Machine (SVM)
 ### §15 Kernel SVM
 ### §16 Naive Bayes
