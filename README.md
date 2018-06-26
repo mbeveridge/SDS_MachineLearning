@@ -179,8 +179,8 @@
 ### §13 K-Nearest Neighbors (K-NN)
 
 * [097](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714404?start=0) K-Nearest Neighbor intuition
-* 098 How to get the dataset
-* 099 K-NN in Python
+* [098](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683128?start=0) How to get the dataset
+* [099](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5735502?start=0) K-NN in Python
 * 100 K-NN in R
 
 
