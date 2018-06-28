@@ -181,7 +181,7 @@
 * [097](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714404?start=0) K-Nearest Neighbor **intuition**
 * [098](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683128?start=0) How to get the dataset
 * [099](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5735502?start=0) K-NN in **Python** [`sklearn.neighbors` (`KNeighborsClassifier`)]
-* 100 K-NN in R
+* [100](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5736648?start=0) K-NN in R
 
 
 ### §14 Support Vector Machine (SVM)
