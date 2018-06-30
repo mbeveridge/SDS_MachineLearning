@@ -185,6 +185,13 @@
 
 
 ### §14 Support Vector Machine (SVM)
+
+* [101](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714406?start=0) SVM **intuition**
+* 102 How to get the dataset
+* 103 SVM in Python
+* 104 SVM in R
+
+
 ### §15 Kernel SVM
 ### §16 Naive Bayes
 ### §17 Decision Tree Classification
