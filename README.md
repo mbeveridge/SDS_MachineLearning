@@ -193,6 +193,16 @@
 
 
 ### §15 Kernel SVM
+
+* [105](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6113144?start=0) Kernel SVM **intuition**
+* 106 Mapping to a higher dimension
+* 107 The Kernel Trick
+* 108 Types of Kernel Functions
+* 109 How to get the dataset
+* 110 Kernel SVM in Python
+* 111 Kernel SVM in R
+
+
 ### §16 Naive Bayes
 ### §17 Decision Tree Classification
 ### §18 Random Forest Classification
