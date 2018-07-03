@@ -189,7 +189,7 @@
 * [101](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714406?start=0) SVM **intuition**
 * [102](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683134?start=0) How to get the dataset
 * [103](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5738982?start=0) SVM in **Python** [`sklearn.svm` (`SVC`)]
-* [104](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5739456?start=0) SVM in R
+* [104](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5739456?start=0) SVM in R [`e1071` (`svm`)]
 
 
 ### §15 Kernel SVM
