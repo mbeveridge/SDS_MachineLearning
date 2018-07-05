@@ -195,9 +195,9 @@
 ### §15 Kernel SVM
 
 * [105](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6113144?start=0) Kernel SVM **intuition**
-* [106](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6113148?start=0) Mapping to a higher dimension
-* [107](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6113150?start=0) The Kernel Trick
-* 108 Types of Kernel Functions
+* [106](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6113148?start=0) **Mapping to a higher dimension**
+* [107](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6113150?start=0) **The Kernel Trick**
+* [108](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6113152?start=0) Types of Kernel Functions
 * 109 How to get the dataset
 * 110 Kernel SVM in Python
 * 111 Kernel SVM in R
