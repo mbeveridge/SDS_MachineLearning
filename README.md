@@ -200,7 +200,7 @@
 * [108](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6113152?start=0) **Types of Kernel Functions**
 * [109](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683162?start=0) How to get the dataset
 * [110](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5749372?start=0) Kernel SVM in **Python** [`sklearn.svm` (`SVC`)]
-* 111 Kernel SVM in R
+* [111](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5752208?start=0) Kernel SVM in **R**
 
 
 ### §16 Naive Bayes
