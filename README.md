@@ -209,7 +209,7 @@
 * [113](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5732738?start=0) Naive Bayes **intuition**
 * 114 Naive Bayes intuition (Challenge reveal)
 * 115 Naive Bayes intuition (extras)
-* 116 How to get the dataset
+* [116](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683146?start=0) How to get the dataset
 * 117 Naive Bayes in Python
 * 118 Naive Bayes in R
 
