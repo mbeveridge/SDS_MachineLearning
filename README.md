@@ -211,7 +211,7 @@
 * [115](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5732742?start=0) Naive Bayes intuition (extras)
 * [116](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683146?start=0) How to get the dataset
 * [117](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5740200?start=0) Naive Bayes in **Python** [`sklearn.naive_bayes` (`GaussianNB`)]
-* [118](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5754212?start=0) Naive Bayes in **R** []
+* [118](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5754212?start=0) Naive Bayes in **R** [`e1071` (`naiveBayes`)]
 
 
 ### §17 Decision Tree Classification
