@@ -215,6 +215,13 @@
 
 
 ### §17 Decision Tree Classification
+
+* [119](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714410?start=0) Decision Tree Classification **intuition**
+* 120 How to get the dataset
+* 121 Decision Tree Classification in Python
+* 122 Decision Tree Classification in R
+
+
 ### §18 Random Forest Classification
 ### §19 Evaluating Classification Models performance
 
