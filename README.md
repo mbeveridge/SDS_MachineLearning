@@ -219,7 +219,7 @@
 * [119](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714410?start=0) Decision Tree Classification **intuition**
 * [120](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683154?start=0) How to get the dataset
 * [121](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5757586?start=0) Decision Tree Classification in **Python** [`sklearn.tree` (`DecisionTreeClassifier`)]
-* 122 Decision Tree Classification in R
+* [122](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5759486?start=0) Decision Tree Classification in **R** [`rpart`]
 
 
 ### §18 Random Forest Classification
