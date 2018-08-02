@@ -223,6 +223,13 @@
 
 
 ### §18 Random Forest Classification
+
+* [123](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714412?start=0) Random Forest Classification **intuition**
+* 124 How to get the dataset
+* 125 Random Forest Classification in Python
+* 126 Random Forest Classification in R
+
+
 ### §19 Evaluating Classification Models performance
 
 
