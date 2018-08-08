@@ -232,6 +232,13 @@
 
 ### §19 Evaluating Classification Models performance
 
+* 127
+* 128
+* 129
+* 130
+* 131
+* 132
+
 
 ## Part 4: Clustering
 ## Part 5: Association Rule Learning
