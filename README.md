@@ -232,12 +232,12 @@
 
 ### §19 Evaluating Classification Models performance
 
-* 127
-* 128
-* 129
-* 130
-* 131
-* 132
+* 127 False Positives & False Negatives
+* 128 Confusion Matrix
+* 129 Accuracy Paradox
+* 130 CAP Curve
+* 131 CAP Curve Analysis
+* 132 Conclusion of 'Part 3: Classification'
 
 
 ## Part 4: Clustering
