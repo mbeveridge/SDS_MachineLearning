@@ -227,7 +227,7 @@
 * [123](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714412?start=0) Random Forest Classification **intuition**
 * [124](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683158?start=0) How to get the dataset
 * [125](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5765754?start=0) Random Forest Classification in **Python** [`sklearn.ensemble` (`RandomForestClassifier`)]
-* [126](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5771094?start=0) Random Forest Classification in **R**
+* [126](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5771094?start=0) Random Forest Classification in **R** [`randomForest`]
 
 
 ### §19 Evaluating Classification Models performance
