@@ -232,7 +232,7 @@
 
 ### §19 Evaluating Classification Models performance
 
-* 127 False Positives & False Negatives
+* [127](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5773378?start=0) False Positives & False Negatives
 * 128 Confusion Matrix
 * 129 Accuracy Paradox
 * 130 CAP Curve
