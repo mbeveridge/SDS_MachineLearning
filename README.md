@@ -241,6 +241,26 @@
 
 
 ## Part 4: Clustering
+### §20 Clustering
+
+* [133](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5765940?start=0) Welcome to Part 4 - Clustering
+
+
+### §21 K-Means Clustering
+
+* 134 K-Means Clustering intuition
+* 135 K-Means 'Random Initialization Trap'
+* 136 K-Means Selecting the Number of Clusters
+* 137 How to get the dataset
+* 138 K-Means Clustering in Python
+* 139 K-Means Clustering in R
+
+
+### §22 Hierarchical Clustering
+
+
+
+
 ## Part 5: Association Rule Learning
 ## Part 6: Reinforcement Learning
 ## Part 7: Natural Language Processing
