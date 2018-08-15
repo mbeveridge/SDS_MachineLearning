@@ -143,7 +143,7 @@
 * [078](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5773214?start=0) Adjusted R-Squared **intuition**
 * [079](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5794346?start=0) **Evaluating Regression Models performance** - Homework's final part [re. §5]
 * [080](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5795482?start=0) Interpreting Linear Regression Coefficients
-* [081](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6403742?start=0) Conclusion of 'Part 2: Regression'
+* [081](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6403742?start=0) **Conclusion** of 'Part 2: Regression'
 
 
 ## Part 3: Classification
@@ -237,7 +237,7 @@
 * [129](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5773388?start=0) Accuracy Paradox
 * [130](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5798784?start=0) CAP Curve
 * [131](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5773392?start=0) **CAP Curve Analysis**
-* [132](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6403830?start=0) Conclusion of 'Part 3: Classification'
+* [132](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6403830?start=0) **Conclusion** of 'Part 3: Classification'
 
 
 ## Part 4: Clustering
@@ -248,7 +248,7 @@
 
 ### §21 K-Means Clustering
 
-* 134 K-Means Clustering intuition
+* [134](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714416?start=0) K-Means Clustering **intuition**
 * 135 K-Means 'Random Initialization Trap'
 * 136 K-Means Selecting the Number of Clusters
 * 137 How to get the dataset
