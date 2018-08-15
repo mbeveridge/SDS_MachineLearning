@@ -236,8 +236,8 @@
 * [128](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5773382?start=0) Confusion Matrix
 * [129](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5773388?start=0) Accuracy Paradox
 * [130](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5798784?start=0) CAP Curve
-* [131](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5773392?start=0) CAP Curve Analysis
-* 132 Conclusion of 'Part 3: Classification'
+* [131](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5773392?start=0) **CAP Curve Analysis**
+* [132](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6403830?start=0) Conclusion of 'Part 3: Classification'
 
 
 ## Part 4: Clustering
