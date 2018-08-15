@@ -234,7 +234,7 @@
 
 * [127](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5773378?start=0) False Positives & False Negatives
 * [128](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5773382?start=0) Confusion Matrix
-* 129 Accuracy Paradox
+* [129](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5773388?start=0) Accuracy Paradox
 * 130 CAP Curve
 * 131 CAP Curve Analysis
 * 132 Conclusion of 'Part 3: Classification'
