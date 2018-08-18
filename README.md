@@ -251,7 +251,7 @@
 * [134](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714416?start=0) K-Means Clustering **intuition**
 * [135](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714420?start=0) K-Means 'Random Initialization Trap'
 * [136](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714426?start=0) K-Means Selecting the Number of Clusters
-* 137 How to get the dataset
+* [137](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683178?start=0) How to get the dataset
 * 138 K-Means Clustering in Python
 * 139 K-Means Clustering in R
 
