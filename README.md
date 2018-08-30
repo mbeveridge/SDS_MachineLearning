@@ -253,12 +253,26 @@
 * [136](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714426?start=0) K-Means Selecting the Number of Clusters
 * [137](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683178?start=0) How to get the dataset
 * [138](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685588?start=0) K-Means Clustering in **Python** [`sklearn.cluster` (`KMeans`)]
-* [139](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685594?start=0) K-Means Clustering in **R** [`kmeans`]
+* [139](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685594?start=0) K-Means Clustering in **R** [`kmeans`, `clusplot`]
 
 
 ### §22 Hierarchical Clustering
 
-
+* 140 Hierarchical Clustering - intuition
+* 141 Hierarchical Clustering - how Dendograms work
+* 142 Hierarchical Clustering - using Dendograms
+* 143 How to get the dataset
+* 144 HC - Python pt1
+* 145 HC - Python pt2
+* 146 HC - Python pt3
+* 147 HC - Python pt4
+* 148 HC - Python pt5
+* 149 HC - R pt1
+* 150 HC - R pt2
+* 151 HC - R pt3
+* 152 HC - R pt4
+* 153 HC - R pt5
+* 154 Conclusion of 'Part 4: Clustering'
 
 
 ## Part 5: Association Rule Learning
