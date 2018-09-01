@@ -23,7 +23,6 @@ sc_y = StandardScaler()
 y_train = sc_y.fit_transform(y_train)"""
 
 # Using the elbow method to find the optimal number of clusters [§21 Lect138: "K-Means Clustering in Python"]
-from sklearn.ensemble import RandomForestClassifier
 from sklearn.cluster import KMeans
 wcss = []
 for i in range(1, 11):
