@@ -259,8 +259,8 @@
 ### §22 Hierarchical Clustering
 
 * [140](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714428?start=0) Hierarchical Clustering - **intuition**
-* 141 Hierarchical Clustering - how Dendograms work
-* 142 Hierarchical Clustering - using Dendograms
+* [141](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714432?start=0) Hierarchical Clustering - how Dendrograms work (**intuition**)
+* [142](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714438?start=0) Hierarchical Clustering - using Dendrograms  (**intuition**)
 * 143 How to get the dataset
 * 144 HC - Python pt1
 * 145 HC - Python pt2
