@@ -263,8 +263,8 @@
 * [142](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714438?start=0) Hierarchical Clustering - using Dendrograms  (**intuition**)
 * [143](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683136?start=0) How to get the dataset
 * [144](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685596?start=0) HC - Python pt1
-* [145](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685600?start=0) HC - **Python pt2** [`scipy.cluster.hierarchy`]
-* [146](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685598?start=0) HC - Python pt3
+* [145](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685600?start=0) HC - **Python pt2** [`scipy.cluster.hierarchy` (`dendrogram`; `linkage`)]
+* [146](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685598?start=0) HC - Python pt3 [`sklearn.cluster` (`AgglomerativeClustering`)]
 * 147 HC - Python pt4
 * 148 HC - Python pt5
 * 149 HC - R pt1
