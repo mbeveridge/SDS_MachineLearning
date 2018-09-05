@@ -266,7 +266,7 @@
 * [145](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685600?start=0) HC - **Python pt2** [`scipy.cluster.hierarchy` (`dendrogram`; `linkage`)]
 * [146](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685598?start=0) HC - **Python pt3** [`sklearn.cluster` (`AgglomerativeClustering`)]
 * [147](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5721310?start=0) HC - Python pt4
-* 148 HC - Python pt5
+* [148](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685620?start=0) HC - Python pt5
 * 149 HC - R pt1
 * 150 HC - R pt2
 * 151 HC - R pt3
