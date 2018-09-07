@@ -271,8 +271,8 @@
 * [150](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685612?start=0) HC - **R pt2** [`hclust()`]
 * [151](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685614?start=0) HC - **R pt3** [`cutree()`]
 * [152](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685616?start=0) HC - R pt4
-* 153 HC - R pt5
-* 154 Conclusion of 'Part 4: Clustering'
+* [153](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685618?start=0) HC - R pt5
+* [154](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6403866?start=0) Conclusion of 'Part 4: Clustering'
 
 
 ## Part 5: Association Rule Learning
