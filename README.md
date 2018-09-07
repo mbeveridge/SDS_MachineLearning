@@ -285,7 +285,7 @@
 
 * [157](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6455322?start=0) Apriori **intuition**
 * [158](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683156?start=0) How to get the dataset
-* 159 Apriori - R pt1
+* [159](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5921986?start=0) Apriori - R pt1
 * 160 Apriori - R pt2
 * 161 Apriori - R pt3
 * 162 Apriori - Python pt1
