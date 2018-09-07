@@ -276,6 +276,30 @@
 
 
 ## Part 5: Association Rule Learning
+### §23 Association Rule Learning
+
+* 156
+
+
+### §24 Apriori
+
+* 157
+* 158
+* 159
+* 160
+* 161
+* 162
+* 163
+* 164
+
+
+### §25 Eclat
+
+* 165
+* 166
+* 167
+
+
 ## Part 6: Reinforcement Learning
 ## Part 7: Natural Language Processing
 ## Part 8: Deep Learning
