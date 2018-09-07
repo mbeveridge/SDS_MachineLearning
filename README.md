@@ -278,19 +278,19 @@
 ## Part 5: Association Rule Learning
 ### §23 Association Rule Learning
 
-* 156
+* [156](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5922118?start=0) Welcome to Part 4 - Association Rule Learning [NOTE that a new Lecture4 (a pdf) has been inserted ...SO ALL Lecture numbers above this one need to be +1'd and all #mentions in Python/R scripts need to be updated (but urls are ok)]
 
 
 ### §24 Apriori
 
-* 157
-* 158
-* 159
-* 160
-* 161
-* 162
-* 163
-* 164
+* 157 Apriori intuition
+* 158 How to get the dataset
+* 159 Apriori - R pt1
+* 160 Apriori - R pt2
+* 161 Apriori - R pt3
+* 162 Apriori - Python pt1
+* 163 Apriori - Python pt2
+* 164 Apriori - Python pt3
 
 
 ### §25 Eclat
