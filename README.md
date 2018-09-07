@@ -295,9 +295,9 @@
 
 ### §25 Eclat
 
-* 165
-* 166
-* 167
+* 165 Eclat intuition
+* 166 How to get the dataset
+* 167 Eclat in R
 
 
 ## Part 6: Reinforcement Learning
