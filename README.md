@@ -268,8 +268,8 @@
 * [147](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5721310?start=0) HC - Python pt4
 * [148](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685620?start=0) HC - Python pt5
 * [149](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685608?start=0) HC - R pt1
-* [150](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685612?start=0) HC - R pt2
-* 151 HC - R pt3
+* [150](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685612?start=0) HC - **R pt2** [`hclust()`]
+* [151](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685614?start=0) HC - R pt3
 * 152 HC - R pt4
 * 153 HC - R pt5
 * 154 Conclusion of 'Part 4: Clustering'
