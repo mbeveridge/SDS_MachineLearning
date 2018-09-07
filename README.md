@@ -283,7 +283,7 @@
 
 ### §24 Apriori
 
-* 157 Apriori intuition
+* [157](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6455322?start=0) Apriori **intuition**
 * 158 How to get the dataset
 * 159 Apriori - R pt1
 * 160 Apriori - R pt2
