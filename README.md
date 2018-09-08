@@ -182,98 +182,98 @@
 * [098](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714404?start=0) K-Nearest Neighbor **intuition**
 * [099](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683128?start=0) How to get the dataset
 * [100](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5735502?start=0) K-NN in **Python** [`sklearn.neighbors` (`KNeighborsClassifier`)]
-* [100](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5736648?start=0) K-NN in **R** [`class` (`knn`)]
+* [101](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5736648?start=0) K-NN in **R** [`class` (`knn`)]
 
 
 ### §14 Support Vector Machine (SVM)
 
-* [101](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714406?start=0) SVM **intuition**
-* [102](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683134?start=0) How to get the dataset
-* [103](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5738982?start=0) SVM in **Python** [`sklearn.svm` (`SVC`)]
-* [104](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5739456?start=0) SVM in **R** [`e1071` (`svm`)]
+* [102](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714406?start=0) SVM **intuition**
+* [103](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683134?start=0) How to get the dataset
+* [104](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5738982?start=0) SVM in **Python** [`sklearn.svm` (`SVC`)]
+* [105](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5739456?start=0) SVM in **R** [`e1071` (`svm`)]
 
 
 ### §15 Kernel SVM
 
-* [105](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6113144?start=0) Kernel SVM **intuition**
-* [106](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6113148?start=0) **Mapping to a higher dimension**
-* [107](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6113150?start=0) **The Kernel Trick**
-* [108](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6113152?start=0) **Types of Kernel Functions**
-* [109](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683162?start=0) How to get the dataset
-* [110](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5749372?start=0) Kernel SVM in **Python** [`sklearn.svm` (`SVC`)]
-* [111](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5752208?start=0) Kernel SVM in **R** [`e1071` (`svm`)]
+* [106](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6113144?start=0) Kernel SVM **intuition**
+* [107](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6113148?start=0) **Mapping to a higher dimension**
+* [108](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6113150?start=0) **The Kernel Trick**
+* [109](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6113152?start=0) **Types of Kernel Functions**
+* [110](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683162?start=0) How to get the dataset
+* [111](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5749372?start=0) Kernel SVM in **Python** [`sklearn.svm` (`SVC`)]
+* [112](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5752208?start=0) Kernel SVM in **R** [`e1071` (`svm`)]
 
 
 ### §16 Naive Bayes
 
-* [112](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5732736?start=0) **Bayes Theorem**
-* [113](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5732738?start=0) Naive Bayes **intuition**
-* [114](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5732740?start=0) Naive Bayes intuition (Challenge reveal)
-* [115](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5732742?start=0) Naive Bayes intuition (extras)
-* [116](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683146?start=0) How to get the dataset
-* [117](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5740200?start=0) Naive Bayes in **Python** [`sklearn.naive_bayes` (`GaussianNB`)]
-* [118](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5754212?start=0) Naive Bayes in **R** [`e1071` (`naiveBayes`)]
+* [113](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5732736?start=0) **Bayes Theorem**
+* [114](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5732738?start=0) Naive Bayes **intuition**
+* [115](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5732740?start=0) Naive Bayes intuition (Challenge reveal)
+* [116](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5732742?start=0) Naive Bayes intuition (extras)
+* [117](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683146?start=0) How to get the dataset
+* [118](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5740200?start=0) Naive Bayes in **Python** [`sklearn.naive_bayes` (`GaussianNB`)]
+* [119](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5754212?start=0) Naive Bayes in **R** [`e1071` (`naiveBayes`)]
 
 
 ### §17 Decision Tree Classification
 
-* [119](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714410?start=0) Decision Tree Classification **intuition**
-* [120](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683154?start=0) How to get the dataset
-* [121](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5757586?start=0) Decision Tree Classification in **Python** [`sklearn.tree` (`DecisionTreeClassifier`)]
-* [122](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5759486?start=0) Decision Tree Classification in **R** [`rpart`]
+* [120](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714410?start=0) Decision Tree Classification **intuition**
+* [121](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683154?start=0) How to get the dataset
+* [122](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5757586?start=0) Decision Tree Classification in **Python** [`sklearn.tree` (`DecisionTreeClassifier`)]
+* [123](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5759486?start=0) Decision Tree Classification in **R** [`rpart`]
 
 
 ### §18 Random Forest Classification
 
-* [123](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714412?start=0) Random Forest Classification **intuition**
-* [124](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683158?start=0) How to get the dataset
-* [125](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5765754?start=0) Random Forest Classification in **Python** [`sklearn.ensemble` (`RandomForestClassifier`)]
-* [126](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5771094?start=0) Random Forest Classification in **R** [`randomForest`]
+* [124](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714412?start=0) Random Forest Classification **intuition**
+* [125](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683158?start=0) How to get the dataset
+* [126](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5765754?start=0) Random Forest Classification in **Python** [`sklearn.ensemble` (`RandomForestClassifier`)]
+* [127](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5771094?start=0) Random Forest Classification in **R** [`randomForest`]
 
 
 ### §19 Evaluating Classification Models performance
 
-* [127](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5773378?start=0) False Positives & False Negatives
-* [128](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5773382?start=0) Confusion Matrix
-* [129](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5773388?start=0) Accuracy Paradox
-* [130](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5798784?start=0) CAP Curve
-* [131](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5773392?start=0) **CAP Curve Analysis**
-* [132](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6403830?start=0) **Conclusion** of 'Part 3: Classification'
+* [128](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5773378?start=0) False Positives & False Negatives
+* [129](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5773382?start=0) Confusion Matrix
+* [130](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5773388?start=0) Accuracy Paradox
+* [131](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5798784?start=0) CAP Curve
+* [132](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5773392?start=0) **CAP Curve Analysis**
+* [133](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6403830?start=0) **Conclusion** of 'Part 3: Classification'
 
 
 ## Part 4: Clustering
 ### §20 Clustering
 
-* [133](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5765940?start=0) Welcome to Part 4 - Clustering
+* [134](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5765940?start=0) Welcome to Part 4 - Clustering
 
 
 ### §21 K-Means Clustering
 
-* [134](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714416?start=0) K-Means Clustering **intuition**
-* [135](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714420?start=0) K-Means 'Random Initialization Trap'
-* [136](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714426?start=0) K-Means Selecting the Number of Clusters
-* [137](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683178?start=0) How to get the dataset
-* [138](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685588?start=0) K-Means Clustering in **Python** [`sklearn.cluster` (`KMeans`)]
-* [139](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685594?start=0) K-Means Clustering in **R** [`kmeans`, `clusplot`]
+* [135](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714416?start=0) K-Means Clustering **intuition**
+* [136](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714420?start=0) K-Means 'Random Initialization Trap'
+* [137](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714426?start=0) K-Means Selecting the Number of Clusters
+* [138](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683178?start=0) How to get the dataset
+* [139](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685588?start=0) K-Means Clustering in **Python** [`sklearn.cluster` (`KMeans`)]
+* [140](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685594?start=0) K-Means Clustering in **R** [`kmeans`, `clusplot`]
 
 
 ### §22 Hierarchical Clustering
 
-* [140](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714428?start=0) Hierarchical Clustering - **intuition**
-* [141](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714432?start=0) Hierarchical Clustering - how Dendrograms work (intuition)
-* [142](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714438?start=0) Hierarchical Clustering - using Dendrograms  (**intuition**)
-* [143](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683136?start=0) How to get the dataset
-* [144](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685596?start=0) HC - Python pt1
-* [145](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685600?start=0) HC - **Python pt2** [`scipy.cluster.hierarchy` (`dendrogram`; `linkage`)]
-* [146](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685598?start=0) HC - **Python pt3** [`sklearn.cluster` (`AgglomerativeClustering`)]
-* [147](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5721310?start=0) HC - Python pt4
-* [148](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685620?start=0) HC - Python pt5
-* [149](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685608?start=0) HC - R pt1
-* [150](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685612?start=0) HC - **R pt2** [`hclust()`]
-* [151](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685614?start=0) HC - **R pt3** [`cutree()`]
-* [152](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685616?start=0) HC - R pt4
-* [153](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685618?start=0) HC - R pt5
-* [154](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6403866?start=0) Conclusion of 'Part 4: Clustering'
+* [141](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714428?start=0) Hierarchical Clustering - **intuition**
+* [142](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714432?start=0) Hierarchical Clustering - how Dendrograms work (intuition)
+* [143](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714438?start=0) Hierarchical Clustering - using Dendrograms  (**intuition**)
+* [144](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683136?start=0) How to get the dataset
+* [145](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685596?start=0) HC - Python pt1
+* [146](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685600?start=0) HC - **Python pt2** [`scipy.cluster.hierarchy` (`dendrogram`; `linkage`)]
+* [147](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685598?start=0) HC - **Python pt3** [`sklearn.cluster` (`AgglomerativeClustering`)]
+* [148](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5721310?start=0) HC - Python pt4
+* [149](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685620?start=0) HC - Python pt5
+* [150](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685608?start=0) HC - R pt1
+* [151](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685612?start=0) HC - **R pt2** [`hclust()`]
+* [152](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685614?start=0) HC - **R pt3** [`cutree()`]
+* [153](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685616?start=0) HC - R pt4
+* [154](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685618?start=0) HC - R pt5
+* [155](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6403866?start=0) Conclusion of 'Part 4: Clustering'
 
 
 ## Part 5: Association Rule Learning
