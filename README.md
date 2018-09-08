@@ -279,7 +279,7 @@
 ## Part 5: Association Rule Learning
 ### §23 Association Rule Learning
 
-* [156](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5922118?start=0) Welcome to Part 4 - Association Rule Learning [NOTE that a new Lecture4 (a pdf) has been inserted ...SO ALL Lecture numbers above this one need to be +1'd and all #mentions in Python/R scripts need to be updated (but urls are ok)]
+* [156](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5922118?start=0) Welcome to Part 4 - Association Rule Learning [NOTE that a new Lecture4 (a pdf) has been inserted ...SO ALL #mentions in Python/R scripts above this one need to be updated (but urls are ok)]
 
 
 ### §24 Apriori
