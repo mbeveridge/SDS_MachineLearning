@@ -16,14 +16,14 @@ dataset = dataset[2:3]
 # training_set = scale(training_set)
 # test_set = scale(test_set)
 
-# Fitting Random Forest Regression to the dataset [§9 Lect76: "Random Forest Regression in R"]
+# Fitting Random Forest Regression to the dataset [§9 Lect77: "Random Forest Regression in R"]
 # install.packages('randomForest')
 library(randomForest)
 set.seed(1234)
 regressor = randomForest(x = dataset[-2],
                          y = dataset$Salary,
                          ntree = 500)
-# Code above from video Lect76. But Q&A says our 'familiar' regressor code would give same result :
+# Code above from video Lect77. But Q&A says our 'familiar' regressor code would give same result :
 # regressor = randomForest(formula = Salary ~ .,
 #                          data = dataset,
 #                          ntree = 500)

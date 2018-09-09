@@ -22,7 +22,7 @@ X_test = sc_X.transform(X_test)
 sc_y = StandardScaler()
 y_train = sc_y.fit_transform(y_train)"""
 
-# Fitting Random Forest Regression to the dataset [§9 Lect75: "Random Forest Regression in Python"]
+# Fitting Random Forest Regression to the dataset [§9 Lect76: "Random Forest Regression in Python"]
 from sklearn.ensemble import RandomForestRegressor
 regressor = RandomForestRegressor(n_estimators = 10, random_state = 0)
 regressor.fit(X, y)
