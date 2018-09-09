@@ -10,30 +10,30 @@ dataset = pd.read_csv('data/s12_Social_Network_Ads.csv')
 X = dataset.iloc[:, [2, 3]].values
 y = dataset.iloc[:, 4].values
 
-# Splitting the dataset into the Training set and Test set [§12 Lect85: "Logistic Regression in Python - Step 1"]
+# Splitting the dataset into the Training set and Test set [§12 Lect86: "Logistic Regression in Python - Step 1"]
 # ...only changed the `test_size`
 from sklearn.cross_validation import train_test_split
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.25, random_state = 0)
 
-# Feature Scaling [§12 Lect85: "Logistic Regression in Python - Step 1"] ...only removed the '''
+# Feature Scaling [§12 Lect86: "Logistic Regression in Python - Step 1"] ...only removed the '''
 from sklearn.preprocessing import StandardScaler
 sc = StandardScaler()
 X_train = sc.fit_transform(X_train)
 X_test = sc.transform(X_test)
 
-# Fitting Logistic Regression to the Training set [§12 Lect86: "Logistic Regression in Python - Step 2"]
+# Fitting Logistic Regression to the Training set [§12 Lect87: "Logistic Regression in Python - Step 2"]
 from sklearn.linear_model import LogisticRegression
 classifier = LogisticRegression(random_state = 0)
 classifier.fit(X_train, y_train)
 
-# Predicting the Test set results [§12 Lect87: "Logistic Regression in Python - Step 3"]
+# Predicting the Test set results [§12 Lect88: "Logistic Regression in Python - Step 3"]
 y_pred = classifier.predict(X_test)
 
-# Making the Confusion Matrix [§12 Lect88: "Logistic Regression in Python - Step 4"]
+# Making the Confusion Matrix [§12 Lect89: "Logistic Regression in Python - Step 4"]
 from sklearn.metrics import confusion_matrix
 cm = confusion_matrix(y_test, y_pred)
 
-# Visualising the Training set results [§12 Lect89: "Logistic Regression in Python - Step 5"]
+# Visualising the Training set results [§12 Lect90: "Logistic Regression in Python - Step 5"]
 from matplotlib.colors import ListedColormap
 X_set, y_set = X_train, y_train
 X1, X2 = np.meshgrid(np.arange(start = X_set[:, 0].min() - 1, stop = X_set[:, 0].max() + 1, step = 0.01),
