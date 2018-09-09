@@ -17,19 +17,19 @@ y = dataset.iloc[:, 2:3].values
 """from sklearn.cross_validation import train_test_split
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state = 0)"""
 
-# Feature Scaling [§7 Lect67: "SVR in Python" ...from 6min30]
+# Feature Scaling [§7 Lect68: "SVR in Python" ...from 6min30]
 from sklearn.preprocessing import StandardScaler
 sc_X = StandardScaler()
 sc_y = StandardScaler()
 X = sc_X.fit_transform(X)
 y = sc_y.fit_transform(y)
 
-# Fitting SVR to the dataset [§7 Lect67: "SVR in Python"]
+# Fitting SVR to the dataset [§7 Lect68: "SVR in Python"]
 from sklearn.svm import SVR
 regressor = SVR(kernel = 'rbf')
 regressor.fit(X, y)
 
-# Predicting a new result [§7 Lect67: "SVR in Python"]
+# Predicting a new result [§7 Lect68: "SVR in Python"]
 # ...but this code is NOT what is in video 13'50-17'20. And it gives a different $prediction value
 y_pred = regressor.predict(6.5)
 y_pred = sc_y.inverse_transform(y_pred)

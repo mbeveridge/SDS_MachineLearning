@@ -16,7 +16,7 @@ dataset = dataset[2:3]
 # training_set = scale(training_set)
 # test_set = scale(test_set)
 
-# Fitting SVR to the dataset [§7 Lect68: "SVR in R"]
+# Fitting SVR to the dataset [§7 Lect69: "SVR in R"]
 # install.packages('e1071')
 library(e1071)
 regressor = svm(formula = Salary ~ .,
