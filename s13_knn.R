@@ -19,7 +19,7 @@ test_set = subset(dataset, split == FALSE)
 training_set[-3] = scale(training_set[-3])
 test_set[-3] = scale(test_set[-3])
 
-# Fitting K-NN to the Training set and Predicting the Test set results  [§13 Lect100: "K-NN in R"]
+# Fitting K-NN to the Training set and Predicting the Test set results  [§13 Lect101: "K-NN in R"]
 library(class)
 y_pred = knn(train = training_set[, -3],
              test = test_set[, -3],
