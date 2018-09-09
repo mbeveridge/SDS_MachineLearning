@@ -19,7 +19,7 @@ test_set = subset(dataset, split == FALSE)
 training_set[-3] = scale(training_set[-3])
 test_set[-3] = scale(test_set[-3])
 
-# Fitting SVM to the Training set [§14 Lect104: "SVM in R"]
+# Fitting SVM to the Training set [§14 Lect105: "SVM in R"]
 # install.packages('e1071')
 library(e1071)
 classifier = svm(formula = Purchased ~ .,

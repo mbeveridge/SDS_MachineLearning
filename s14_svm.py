@@ -20,7 +20,7 @@ sc = StandardScaler()
 X_train = sc.fit_transform(X_train)
 X_test = sc.transform(X_test)
 
-# Fitting SVM to the Training set [§14 Lect103: "SVM in Python"]
+# Fitting SVM to the Training set [§14 Lect104: "SVM in Python"]
 from sklearn.svm import SVC
 classifier = SVC(kernel = 'linear', random_state = 0)
 classifier.fit(X_train, y_train)
