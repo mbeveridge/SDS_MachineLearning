@@ -16,7 +16,7 @@ dataset = dataset[2:3]
 # training_set = scale(training_set)
 # test_set = scale(test_set)
 
-# Fitting Decision Tree Regression to the dataset [§8 Lect72: "Decision Tree Regression in R"]
+# Fitting Decision Tree Regression to the dataset [§8 Lect73: "Decision Tree Regression in R"]
 # install.packages('rpart')
 library(rpart)
 regressor = rpart(formula = Salary ~ .,
@@ -27,7 +27,7 @@ regressor = rpart(formula = Salary ~ .,
 y_pred = predict(regressor, data.frame(Level = 6.5))
 
 # Visualising the Decision Tree Regression results (higher resolution)
-# [§8 Lect72: "Decision Tree Regression in R" 14'35-15'45] says why we use this code instead
+# [§8 Lect73: "Decision Tree Regression in R" 14'35-15'45] says why we use this code instead
 # install.packages('ggplot2')
 library(ggplot2)
 x_grid = seq(min(dataset$Level), max(dataset$Level), 0.01)

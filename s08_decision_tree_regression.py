@@ -22,7 +22,7 @@ X_test = sc_X.transform(X_test)
 sc_y = StandardScaler()
 y_train = sc_y.fit_transform(y_train)"""
 
-# Fitting Decision Tree Regression to the dataset [§8 Lect71: "Decision Tree Regression in Python"]
+# Fitting Decision Tree Regression to the dataset [§8 Lect72: "Decision Tree Regression in Python"]
 from sklearn.tree import DecisionTreeRegressor
 regressor = DecisionTreeRegressor(random_state = 0)
 regressor.fit(X, y)
@@ -31,7 +31,7 @@ regressor.fit(X, y)
 y_pred = regressor.predict(6.5)
 
 # Visualising the Decision Tree Regression results
-# [§8 Lect71: "Decision Tree Regression in Python" 7'20-10'50] explains we can't use this, because
+# [§8 Lect72: "Decision Tree Regression in Python" 7'20-10'50] explains we can't use this, because
 # we are now dealing with a non-continuous regression model (where the plot should be a series of steps)
 """plt.scatter(X, y, color = 'red')
 plt.plot(X, regressor.predict(X), color = 'blue')
@@ -41,7 +41,7 @@ plt.ylabel('Salary')
 plt.show()"""
 
 # Visualising the Decision Tree Regression results (higher resolution)
-# [§8 Lect71: "Decision Tree Regression in Python" 11'30-12'15] says why we use this code instead
+# [§8 Lect72: "Decision Tree Regression in Python" 11'30-12'15] says why we use this code instead
 # [13'30-13'50] says the Intuition was 2-D, this example & plot is 1-D, but Decision Tree Regression
 # is only really useful when we have multiple independent variables (ie. more than 1-D)
 X_grid = np.arange(min(X), max(X), 0.01)
