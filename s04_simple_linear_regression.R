@@ -16,14 +16,14 @@ test_set = subset(dataset, split == FALSE)
 # training_set[, 2:3] = scale(training_set[, 2:3])
 # test_set[, 2:3] = scale(test_set[, 2:3])
 
-# Fitting Simple Linear Regression to the Training set [§4 Lect29: "SLR - R pt2"]
+# Fitting Simple Linear Regression to the Training set [§4 Lect30: "SLR - R pt2"]
 regressor = lm(formula = Salary ~ YearsExperience,
                data = training_set)
 
-# Predicting the Test set results [§4 Lect30: "SLR - R pt3"]
+# Predicting the Test set results [§4 Lect31: "SLR - R pt3"]
 y_pred = predict(regressor, newdata = test_set)
 
-# Visualising the Training set results [§4 Lect31: "SLR - R pt4"]
+# Visualising the Training set results [§4 Lect32: "SLR - R pt4"]
 library(ggplot2)
 ggplot() +
   geom_point(aes(x = training_set$YearsExperience, y = training_set$Salary),
@@ -34,7 +34,7 @@ ggplot() +
   xlab('Years of experience') +
   ylab('Salary')
 
-# Visualising the Test set results [§4 Lect31: "SLR - R pt4"]
+# Visualising the Test set results [§4 Lect32: "SLR - R pt4"]
 library(ggplot2)
 ggplot() +
   geom_point(aes(x = test_set$YearsExperience, y = test_set$Salary),
