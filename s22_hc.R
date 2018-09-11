@@ -16,18 +16,18 @@ dataset = dataset[4:5]
 # training_set = scale(training_set)
 # test_set = scale(test_set)
 
-# Using the dendrogram to find the optimal number of clusters [§22 Lect150: "HC in R - Step 2"]
+# Using the dendrogram to find the optimal number of clusters [§22 Lect151: "HC in R - Step 2"]
 dendrogram = hclust(d = dist(dataset, method = 'euclidean'), method = 'ward.D')
 plot(dendrogram,
      main = paste('Dendrogram'),
      xlab = 'Customers',
      ylab = 'Euclidean distances')
 
-# Fitting Hierarchical Clustering to the dataset [§22 Lect151: "HC in R - Step 3"]
+# Fitting Hierarchical Clustering to the dataset [§22 Lect152: "HC in R - Step 3"]
 hc = hclust(d = dist(dataset, method = 'euclidean'), method = 'ward.D')
 y_hc = cutree(hc, 5)
 
-# Visualising the clusters [§22 Lect152: "HC in R - Step 4"]
+# Visualising the clusters [§22 Lect153: "HC in R - Step 4"]
 library(cluster)
 clusplot(dataset,
          y_hc,
