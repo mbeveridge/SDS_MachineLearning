@@ -20,7 +20,7 @@ sc = StandardScaler()
 X_train = sc.fit_transform(X_train)
 X_test = sc.transform(X_test)
 
-# Fitting Naive Bayes to the Training set [§16 Lect117: "Naive Bayes in Python"]
+# Fitting Naive Bayes to the Training set [§16 Lect118: "Naive Bayes in Python"]
 from sklearn.naive_bayes import GaussianNB
 classifier = GaussianNB()
 classifier.fit(X_train, y_train)

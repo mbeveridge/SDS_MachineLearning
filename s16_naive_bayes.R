@@ -4,7 +4,7 @@
 dataset = read.csv('data/s16_Social_Network_Ads.csv')
 dataset = dataset[3:5]
 
-# Encoding the target feature as factor [§16 Lect118: "Naive Bayes in R"]
+# Encoding the target feature as factor [§16 Lect119: "Naive Bayes in R"]
 dataset$Purchased = factor(dataset$Purchased, levels = c(0, 1))
 
 # Splitting the dataset into the Training set and Test set
@@ -19,7 +19,7 @@ test_set = subset(dataset, split == FALSE)
 training_set[-3] = scale(training_set[-3])
 test_set[-3] = scale(test_set[-3])
 
-# Fitting Naive Bayes to the Training set [§16 Lect118: "Naive Bayes in R"]
+# Fitting Naive Bayes to the Training set [§16 Lect119: "Naive Bayes in R"]
 # install.packages('e1071')
 library(e1071)
 classifier = naiveBayes(x = training_set[-3],
