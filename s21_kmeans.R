@@ -27,12 +27,12 @@ plot(1:10,
      xlab = 'Number of clusters',
      ylab = 'WCSS')
 
-# Fitting K-Means to the dataset [§21 Lect139: "K-Means Clustering in R"]
+# Fitting K-Means to the dataset [§21 Lect140: "K-Means Clustering in R"]
 set.seed(29)
 kmeans = kmeans(x = dataset, centers = 5)
 y_kmeans = kmeans$cluster
 
-# Visualising the clusters [§21 Lect139: "K-Means Clustering in R"]
+# Visualising the clusters [§21 Lect140: "K-Means Clustering in R"]
 library(cluster)
 clusplot(dataset,
          y_kmeans,
