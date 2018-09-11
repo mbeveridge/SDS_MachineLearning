@@ -19,7 +19,7 @@ test_set = subset(dataset, split == FALSE)
 training_set[-3] = scale(training_set[-3])
 test_set[-3] = scale(test_set[-3])
 
-# Fitting Random Forest Classification to the Training set [§18 Lect126: "Random Forest Classification in R"]
+# Fitting Random Forest Classification to the Training set [§18 Lect127: "Random Forest Classification in R"]
 # install.packages('randomForest')
 library(randomForest)
 set.seed(123)
