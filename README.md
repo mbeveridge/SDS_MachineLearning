@@ -263,23 +263,31 @@
 * [142](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714432?start=0) Hierarchical Clustering - how Dendrograms work (intuition)
 * [143](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714438?start=0) Hierarchical Clustering - using Dendrograms  (**intuition**)
 * [144](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683136?start=0) How to get the dataset
+
+---
+
 * [145](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685596?start=0) HC - Python pt1
 * [146](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685600?start=0) HC - **Python pt2** [`scipy.cluster.hierarchy` (`dendrogram`; `linkage`)]
 * [147](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685598?start=0) HC - **Python pt3** [`sklearn.cluster` (`AgglomerativeClustering`)]
 * [148](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5721310?start=0) HC - Python pt4
 * [149](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685620?start=0) HC - Python pt5
+
+---
+
 * [150](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685608?start=0) HC - R pt1
 * [151](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685612?start=0) HC - **R pt2** [`hclust()`]
 * [152](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685614?start=0) HC - **R pt3** [`cutree()`]
 * [153](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685616?start=0) HC - R pt4
 * [154](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685618?start=0) HC - R pt5
+
+
 * [155](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6403866?start=0) Conclusion of 'Part 4: Clustering'
 
 
 ## Part 5: Association Rule Learning
 ### §23 Association Rule Learning
 
-* [156](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5922118?start=0) Welcome to Part 4 - Association Rule Learning [NOTE that a new Lecture4 (a pdf) has been inserted ...SO ALL #mentions in Python/R scripts above this one need to be updated (but urls are ok)]
+* [156](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5922118?start=0) Welcome to Part 4 - Association Rule Learning
 
 
 ### §24 Apriori
@@ -287,7 +295,7 @@
 * [157](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6455322?start=0) Apriori **intuition**
 * [158](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683156?start=0) How to get the dataset
 * [159](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5921986?start=0) Apriori - **R pt1** [`arules`]
-* 160 Apriori - R pt2
+* [160](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5927156?start=0) Apriori - R pt2
 * 161 Apriori - R pt3
 * 162 Apriori - Python pt1
 * 163 Apriori - Python pt2
