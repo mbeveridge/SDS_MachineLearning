@@ -19,14 +19,14 @@ test_set = subset(dataset, split == FALSE)
 training_set[-3] = scale(training_set[-3])
 test_set[-3] = scale(test_set[-3])
 
-# Fitting Decision Tree Classification to the Training set [§17 Lect122: "Decision Tree Classification in R"]
+# Fitting Decision Tree Classification to the Training set [§17 Lect123: "Decision Tree Classification in R"]
 # install.packages('rpart')
 library(rpart)
 classifier = rpart(formula = Purchased ~ .,
                    data = training_set)
 
 # Predicting the Test set results
-# [§17 Lect122: "Decision Tree Classification in R"] adds `type = 'class'` at 7min01
+# [§17 Lect123: "Decision Tree Classification in R"] adds `type = 'class'` at 7min01
 y_pred = predict(classifier, newdata = test_set[-3], type = 'class')
 
 # Making the Confusion Matrix
