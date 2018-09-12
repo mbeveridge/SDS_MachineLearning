@@ -296,8 +296,8 @@
 * [158](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683156?start=0) How to get the dataset
 * [159](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5921986?start=0) Apriori - **R pt1** [`arules` (`read.transactions`)]
 * [160](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5927156?start=0) Apriori - **R pt2** [`arules` (`apriori`)]
-* [161](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5932642?start=0) Apriori - R pt3
-* 162 Apriori - Python pt1
+* [161](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5932642?start=0) Apriori - **R pt3**
+* [162](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5966530?start=0) Apriori - Python pt1
 * 163 Apriori - Python pt2
 * 164 Apriori - Python pt3
 
