@@ -310,7 +310,7 @@
 
 ### §25 Eclat
 
-* 165 Eclat intuition
+* [165](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6455326?start=0) Eclat **intuition**
 * 166 How to get the dataset
 * 167 Eclat in R
 
