@@ -316,6 +316,13 @@
 
 
 ## Part 6: Reinforcement Learning
+### §26 Reinforcement Learning
+
+### §27 Upper Confidence Bound (UCB)
+
+### §28 Thompson Sampling
+
+
 ## Part 7: Natural Language Processing
 ## Part 8: Deep Learning
 ## Part 9: Dimensionality Reduction
