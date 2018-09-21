@@ -287,7 +287,7 @@
 ## Part 5: Association Rule Learning
 ### §23 Association Rule Learning
 
-* [156](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5922118?start=0) Welcome to Part 4 - Association Rule Learning
+* [156](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5922118?start=0) Welcome to Part 5 - Association Rule Learning
 
 
 ### §24 Apriori
@@ -318,7 +318,29 @@
 ## Part 6: Reinforcement Learning
 ### §26 Reinforcement Learning
 
+* 168 Welcome to Part 6 - Reinforcement Learning
+
+
 ### §27 Upper Confidence Bound (UCB)
+
+* 169 The Multi-Armed Bandit Problem
+* 170 Upper Confidence Bound - intuition
+* 171 How to get the dataset
+
+---
+
+* 172 UCB - Python pt1
+* 173 UCB - Python pt2
+* 174 UCB - Python pt3
+* 175 UCB - Python pt4
+
+---
+
+* 176 UCB - R pt1
+* 177 UCB - R pt2
+* 178 UCB - R pt3
+* 179 UCB - R pt4
+
 
 ### §28 Thompson Sampling
 
