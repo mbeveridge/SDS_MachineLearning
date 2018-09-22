@@ -344,6 +344,14 @@
 
 ### §28 Thompson Sampling
 
+* 180 Thompson Sampling - intuition
+* 181 Algorithm comparison : UCB v's Thompson Sampling
+* 182 How to get the dataset
+* 183 Thompson Sampling - Python pt1
+* 184 Thompson Sampling - Python pt2
+* 185 Thompson Sampling - R pt1
+* 186 Thompson Sampling - R pt2
+
 
 ## Part 7: Natural Language Processing
 ## Part 8: Deep Learning
