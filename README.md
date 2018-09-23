@@ -323,7 +323,7 @@
 
 ### §27 Upper Confidence Bound (UCB)
 
-* 169 The Multi-Armed Bandit Problem
+* [169](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6456816?start=0) The Multi-Armed Bandit Problem
 * 170 Upper Confidence Bound - intuition
 * 171 How to get the dataset
 
