@@ -318,7 +318,7 @@
 ## Part 6: Reinforcement Learning
 ### §26 Reinforcement Learning
 
-* 168 Welcome to Part 6 - Reinforcement Learning
+* [168](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5985220?start=0) Welcome to Part 6 - Reinforcement Learning
 
 
 ### §27 Upper Confidence Bound (UCB)
