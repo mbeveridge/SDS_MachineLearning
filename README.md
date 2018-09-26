@@ -329,7 +329,7 @@
 
 ---
 
-* 172 UCB - Python pt1
+* [172](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5984442?start=0) UCB - Python pt1
 * 173 UCB - Python pt2
 * 174 UCB - Python pt3
 * 175 UCB - Python pt4
