@@ -331,7 +331,7 @@
 
 * [172](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5984442?start=0) UCB - Python pt1
 * [173](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6017492?start=0) UCB - **Python pt2** [`math` ...to implement UCB from scratch]
-* 174 UCB - Python pt3
+* [174](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6021982?start=0) UCB - **Python pt3**
 * 175 UCB - Python pt4
 
 ---
