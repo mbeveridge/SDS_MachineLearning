@@ -337,8 +337,8 @@
 ---
 
 * [176](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6022152?start=0) UCB - R pt1
-* [177](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6022156?start=0) UCB - R pt2
-* 178 UCB - R pt3
+* [177](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6022156?start=0) UCB - **R pt2**
+* [178](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6022160?start=0) UCB - R pt3
 * 179 UCB - R pt4
 
 
