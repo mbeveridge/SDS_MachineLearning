@@ -346,7 +346,7 @@
 ### §28 Thompson Sampling
 
 * [181](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6456840?start=0) Thompson Sampling - **intuition**
-* 182 Algorithm comparison : UCB v's Thompson Sampling
+* [182](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6468288?start=0) Algorithm comparison : **UCB v's Thompson Sampling** [Pros & Cons of each]
 * 183 How to get the dataset
 * 184 Thompson Sampling - Python pt1
 * 185 Thompson Sampling - Python pt2
