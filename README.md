@@ -7,11 +7,11 @@
 
 ### §1 Welcome to the course!
 
-* [001]() Applications of Machine Learning
+* [001](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6087180?start=0) Applications of Machine Learning
 * [002](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6087182?start=0) Why Machine Learning is the Future
 * [003](https://www.udemy.com/machinelearning/learn/v4/t/lecture/9180776?start=0) Important notes, tips & tricks for this course
-* 004
-* 005
+* [004](https://www.udemy.com/machinelearning/learn/v4/t/lecture/11692666?start=0) This PDF resource will help you a lot
+* [005](https://www.udemy.com/machinelearning/learn/v4/t/lecture/12030470?start=0) Updates on Udemy Reviews
 * [006](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5728032?start=0) Installing Python and Anaconda
 * [007](https://www.udemy.com/machinelearning/learn/v4/t/lecture/7646982?start=0) Update: Recommended Anaconda version
 * [008](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5728004?start=0) Installing R and RStudio
