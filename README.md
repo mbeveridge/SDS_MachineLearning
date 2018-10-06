@@ -11,176 +11,177 @@
 * [002](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6087182?start=0) Why Machine Learning is the Future
 * [003](https://www.udemy.com/machinelearning/learn/v4/t/lecture/9180776?start=0) Important notes, tips & tricks for this course
 * 004
-* [005](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5728032?start=0) Installing Python and Anaconda
-* [006](https://www.udemy.com/machinelearning/learn/v4/t/lecture/7646982?start=0) Update: Recommended Anaconda version
-* [007](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5728004?start=0) Installing R and RStudio
-* [008](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5741642?start=0) BONUS: Meet your instructors
+* 005
+* [006](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5728032?start=0) Installing Python and Anaconda
+* [007](https://www.udemy.com/machinelearning/learn/v4/t/lecture/7646982?start=0) Update: Recommended Anaconda version
+* [008](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5728004?start=0) Installing R and RStudio
+* [009](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5741642?start=0) BONUS: Meet your instructors
 
 
 ## Part 1: Data Preprocessing
 ### §2 Data Preprocessing
 
-* [009](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683408?start=0) Welcome to Part 1 - Data Preprocessing
-* [010](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6682576?start=0) Get the dataset
-* [011](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6151022?start=0) Importing the libraries [`numpy`; `matplotlib.pyplot`; `pandas`] [-]
-* [012](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5859238?start=0) Importing the dataset
-* [013](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5859706?start=0) For Python learners, summary of Object-oriented programming: classes & objects
-* [014](https://www.udemy.com/machinelearning/learn/v4/t/lecture/7675934?start=0) **Missing data** [`sklearn.preprocessing` (`Imputer`)] [`ifelse()`]
-* [015](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683428?start=0) **Categorical data** [`sklearn.preprocessing` (`LabelEncoder`; `OneHotEncoder`)] [`factor()`]
-* [016](https://www.udemy.com/machinelearning/learn/v4/t/lecture/10601930?start=0) WARNING - Update [re. 016/018 : `sklearn.cross_validation` (`train_test_split`) is deprecated]
-* [017](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683430?start=0) **Splitting the dataset** into Training set & Test set [`sklearn.model_selection` (`train_test_split`)] [`caTools`]
-* [018](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683432?start=0) **Feature Scaling** [`sklearn.preprocessing` (`StandardScaler`)] [`scale()`]
-* [019](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683434?start=0) And here is our **Data Preprocessing Template**!
+* [010](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683408?start=0) Welcome to Part 1 - Data Preprocessing
+* [011](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6682576?start=0) Get the dataset
+* [012](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6151022?start=0) Importing the libraries [`numpy`; `matplotlib.pyplot`; `pandas`] [-]
+* [013](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5859238?start=0) Importing the dataset
+* [014](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5859706?start=0) For Python learners, summary of Object-oriented programming: classes & objects
+* [015](https://www.udemy.com/machinelearning/learn/v4/t/lecture/7675934?start=0) **Missing data** [`sklearn.preprocessing` (`Imputer`)] [`ifelse()`]
+* [016](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683428?start=0) **Categorical data** [`sklearn.preprocessing` (`LabelEncoder`; `OneHotEncoder`)] [`factor()`]
+* [017](https://www.udemy.com/machinelearning/learn/v4/t/lecture/10601930?start=0) WARNING - Update [re. 016/018 : `sklearn.cross_validation` (`train_test_split`) is deprecated]
+* [018](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683430?start=0) **Splitting the dataset** into Training set & Test set [`sklearn.model_selection` (`train_test_split`)] [`caTools`]
+* [019](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683432?start=0) **Feature Scaling** [`sklearn.preprocessing` (`StandardScaler`)] [`scale()`]
+* [020](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683434?start=0) And here is our **Data Preprocessing Template**!
 
 
 ## Part 2: Regression
 ### §3 Regression
 
-* [020](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5765878?start=0) Welcome to Part 2 - Regression
+* [021](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5765878?start=0) Welcome to Part 2 - Regression
 
 
 ### §4 Simple Linear Regression (SLR)
 
-* [021](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683104?start=0) How to get the dataset
-* [022](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5795729?start=0) Dataset + Business Problem description
-* [023](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5772258?start=0) SLR intuition pt1
-* [024](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5772186?start=0) SLR intuition pt2
+* [022](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683104?start=0) How to get the dataset
+* [023](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5795729?start=0) Dataset + Business Problem description
+* [024](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5772258?start=0) SLR intuition pt1
+* [025](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5772186?start=0) SLR intuition pt2
 
 ---
 
-* [025](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5747026?start=0) SLR - Python pt1
-* [026](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5747020?start=0) SLR - Python pt2 [`sklearn.linear_model` (`LinearRegression`)]
-* [027](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5742774?start=0) SLR - Python pt3
-* [028](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5768342?start=0) SLR - **Python pt4**
+* [026](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5747026?start=0) SLR - Python pt1
+* [027](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5747020?start=0) SLR - Python pt2 [`sklearn.linear_model` (`LinearRegression`)]
+* [028](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5742774?start=0) SLR - Python pt3
+* [029](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5768342?start=0) SLR - **Python pt4**
 
 ---
 
-* [029](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683454?start=0) SLR - R pt1
-* [030](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683506?start=0) SLR - **R pt2** [`lm()`]
-* [031](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683508?start=0) SLR - R pt3 [`predict()`]
-* [032](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5768350?start=0) SLR - **R pt4** [`ggplot2`]
+* [030](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683454?start=0) SLR - R pt1
+* [031](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683506?start=0) SLR - **R pt2** [`lm()`]
+* [032](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683508?start=0) SLR - R pt3 [`predict()`]
+* [033](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5768350?start=0) SLR - **R pt4** [`ggplot2`]
 
 
 ### §5 Multiple Linear Regression (MLR)
 
-* [033](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683120?start=0) How to get the dataset
-* [034](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5795731?start=0) Dataset + Business Problem description
-* [035](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5772040?start=0) MLR intuition pt1
-* [036](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5772042?start=0) MLR intuition pt2
-* [037](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5772046?start=0) MLR intuition pt3 [dummy variables]
-* [038](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5772050?start=0) MLR **intuition pt4** ["Dummy Variable Trap"]
-* [039](https://www.udemy.com/machinelearning/learn/v4/t/lecture/9202750?start=0) Prerequisites: What is the P-Value?
-* [040](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5772052?start=0) MLR **intuition pt5** [Building a model ...5 methods, step-by-step]
+* [034](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683120?start=0) How to get the dataset
+* [035](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5795731?start=0) Dataset + Business Problem description
+* [036](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5772040?start=0) MLR intuition pt1
+* [037](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5772042?start=0) MLR intuition pt2
+* [038](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5772046?start=0) MLR intuition pt3 [dummy variables]
+* [039](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5772050?start=0) MLR **intuition pt4** ["Dummy Variable Trap"]
+* [040](https://www.udemy.com/machinelearning/learn/v4/t/lecture/9202750?start=0) Prerequisites: What is the P-Value?
+* [041](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5772052?start=0) MLR **intuition pt5** [Building a model ...5 methods, step-by-step]
 
 ---
 
-* [041](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683494?start=0) MLR - **Python pt1** [`sklearn.preprocessing` (`LabelEncoder`; `OneHotEncoder`)]
-* [042](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683500?start=0) MLR - Python pt2 [`sklearn.linear_model` (`LinearRegression`)]
-* [043](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5855944?start=0) MLR - Python pt3
-* [044](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5789776?start=0) MLR - **Python (Backward Elimination): Prep** [`statsmodels.formula.api`. Add b0 with `np.append()`&`np.ones()`]
-* [045](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5789330?start=0) MLR - **Python (Backward Elimination): HOMEWORK !** [`statsmodels.formula.api` (`OLS`)]
-* [046](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5789342?start=0) MLR - Python (Backward Elimination): Homework solution
-* [047](https://www.udemy.com/machinelearning/learn/v4/t/lecture/9201998?start=0) MLR - Python (Backward Elimination): automatic [using `for` loops]
+* [042](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683494?start=0) MLR - **Python pt1** [`sklearn.preprocessing` (`LabelEncoder`; `OneHotEncoder`)]
+* [043](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5683500?start=0) MLR - Python pt2 [`sklearn.linear_model` (`LinearRegression`)]
+* [044](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5855944?start=0) MLR - Python pt3
+* [045](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5789776?start=0) MLR - **Python (Backward Elimination): Prep** [`statsmodels.formula.api`. Add b0 with `np.append()`&`np.ones()`]
+* [046](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5789330?start=0) MLR - **Python (Backward Elimination): HOMEWORK !** [`statsmodels.formula.api` (`OLS`)]
+* [047](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5789342?start=0) MLR - Python (Backward Elimination): Homework solution
+* [048](https://www.udemy.com/machinelearning/learn/v4/t/lecture/9201998?start=0) MLR - Python (Backward Elimination): automatic [using `for` loops]
 
 ---
 
-* [048](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5734722?start=0) MLR - **R pt1** [`factor()`]
-* [049](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5734728?start=0) MLR - R pt2 [`lm()`]
-* [050](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5855946?start=0) MLR - R pt3
-* [051](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5792106?start=0) MLR - **R (Backward Elimination): HOMEWORK !**
-* [052](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5793268?start=0) MLR - R (Backward Elimination): Homework solution
-* [053](https://www.udemy.com/machinelearning/learn/v4/t/lecture/9202040?start=0) MLR - R (Backward Elimination): automatic [using `for` loop]
+* [049](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5734722?start=0) MLR - **R pt1** [`factor()`]
+* [050](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5734728?start=0) MLR - R pt2 [`lm()`]
+* [051](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5855946?start=0) MLR - R pt3
+* [052](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5792106?start=0) MLR - **R (Backward Elimination): HOMEWORK !**
+* [053](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5793268?start=0) MLR - R (Backward Elimination): Homework solution
+* [054](https://www.udemy.com/machinelearning/learn/v4/t/lecture/9202040?start=0) MLR - R (Backward Elimination): automatic [using `for` loop]
 
 
 ### §6 Polynomial Regression
 
-* [054](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5732728?start=0) Polynomial Regression intuition
-* [055](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683122?start=0) How to get the dataset
+* [055](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5732728?start=0) Polynomial Regression intuition
+* [056](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683122?start=0) How to get the dataset
 
 ---
 
-* [056](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5813756?start=0) Polynomial Regression - Python pt1 [Business Problem description @5'25]
-* [057](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5935932?start=0) Polynomial Regression - **Python pt2** [`sklearn.linear_model` (`LinearRegression`) ; `sklearn.preprocessing` (`PolynomialFeatures`)]
-* [058](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5846946?start=0) Polynomial Regression - Python pt3
-* [059](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5813772?start=0) Polynomial Regression - **Python pt4**
-* [060](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5846952?start=0) **Python Regression Template**
+* [057](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5813756?start=0) Polynomial Regression - Python pt1 [Business Problem description @5'25]
+* [058](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5935932?start=0) Polynomial Regression - **Python pt2** [`sklearn.linear_model` (`LinearRegression`) ; `sklearn.preprocessing` (`PolynomialFeatures`)]
+* [059](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5846946?start=0) Polynomial Regression - Python pt3
+* [060](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5813772?start=0) Polynomial Regression - **Python pt4**
+* [061](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5846952?start=0) **Python Regression Template**
 
 ---
 
-* [061](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5817828?start=0) Polynomial Regression - R pt1 [Business Problem description @2'00]
-* [062](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5817830?start=0) Polynomial Regression - **R pt2** [`lm()`]
-* [063](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5846948?start=0) Polynomial Regression - R pt3 [`ggplot2` ; `predict()`]
-* [064](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5819200?start=0) Polynomial Regression - **R pt4** [`predict()`]
-* [065](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5846954?start=0) **R Regression Template**
+* [062](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5817828?start=0) Polynomial Regression - R pt1 [Business Problem description @2'00]
+* [063](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5817830?start=0) Polynomial Regression - **R pt2** [`lm()`]
+* [064](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5846948?start=0) Polynomial Regression - R pt3 [`ggplot2` ; `predict()`]
+* [065](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5819200?start=0) Polynomial Regression - **R pt4** [`predict()`]
+* [066](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5846954?start=0) **R Regression Template**
 
 
 ### §7 Support Vector Regression (SVR)
 
-* [066](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683126?start=0) How to get the dataset
-* [067](https://www.udemy.com/machinelearning/learn/v4/t/lecture/10459548?start=0) SVR intuition [!?confusing!? ; [link](https://link.springer.com/chapter/10.1007/978-1-4302-5990-9_4) shown on chart]
-* [068](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5952220?start=0) SVR - **Python** [`sklearn.svm` (`SVR`) ; `sklearn.preprocessing` (`StandardScaler`)]
-* [069](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5846958?start=0) SVR - **R** [`e1071`]
+* [067](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683126?start=0) How to get the dataset
+* [068](https://www.udemy.com/machinelearning/learn/v4/t/lecture/10459548?start=0) SVR intuition [!?confusing!? ; [link](https://link.springer.com/chapter/10.1007/978-1-4302-5990-9_4) shown on chart]
+* [069](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5952220?start=0) SVR - **Python** [`sklearn.svm` (`SVR`) ; `sklearn.preprocessing` (`StandardScaler`)]
+* [070](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5846958?start=0) SVR - **R** [`e1071`]
 
 
 ### §8 Decision Tree Regression
 
-* [070](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5732730?start=0) Decision Tree Regression **intuition**
-* [071](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683130?start=0) How to get the dataset
-* [072](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5846962?start=0) Decision Tree Regression - **Python** [`sklearn.tree` (`DecisionTreeRegressor`)]
-* [073](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5846964?start=0) Decision Tree Regression - **R** [`rpart`]
+* [071](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5732730?start=0) Decision Tree Regression **intuition**
+* [072](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683130?start=0) How to get the dataset
+* [073](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5846962?start=0) Decision Tree Regression - **Python** [`sklearn.tree` (`DecisionTreeRegressor`)]
+* [074](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5846964?start=0) Decision Tree Regression - **R** [`rpart`]
 
 
 ### §9 Random Forest Regression
 
-* [074](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5732732?start=0) Random Forest Regression **intuition**
-* [075](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683124?start=0) How to get the dataset
-* [076](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5855120?start=0) Random Forest Regression in **Python** [`sklearn.ensemble` (`RandomForestRegressor`)]
-* [077](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5855028?start=0) Random Forest Regression in **R** [`randomForest`]
+* [075](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5732732?start=0) Random Forest Regression **intuition**
+* [076](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683124?start=0) How to get the dataset
+* [077](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5855120?start=0) Random Forest Regression in **Python** [`sklearn.ensemble` (`RandomForestRegressor`)]
+* [078](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5855028?start=0) Random Forest Regression in **R** [`randomForest`]
 
 
 ### §10 Evaluating Regression Models performance
 
-* [078](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5773210?start=0) R-Squared intuition
-* [079](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5773214?start=0) Adjusted R-Squared **intuition**
-* [080](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5794346?start=0) **Evaluating Regression Models performance** - Homework's final part [re. §5]
-* [081](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5795482?start=0) Interpreting Linear Regression Coefficients
-* [082](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6403742?start=0) **Conclusion** of 'Part 2: Regression'
+* [079](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5773210?start=0) R-Squared intuition
+* [080](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5773214?start=0) Adjusted R-Squared **intuition**
+* [081](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5794346?start=0) **Evaluating Regression Models performance** - Homework's final part [re. §5]
+* [082](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5795482?start=0) Interpreting Linear Regression Coefficients
+* [083](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6403742?start=0) **Conclusion** of 'Part 2: Regression'
 
 
 ## Part 3: Classification
 ### §11 Classification
 
-* [083](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5765916?start=0) Welcome to Part 3 - Classification
+* [084](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5765916?start=0) Welcome to Part 3 - Classification
 
 
 ### §12 Logistic Regression
 
-* [084](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6270024?start=0) Logistic Regression intuition
-* [085](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683132?start=0) How to get the dataset
+* [085](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6270024?start=0) Logistic Regression intuition
+* [086](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683132?start=0) How to get the dataset
 
 ---
 
-* [086](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5684812?start=0) Logistic Regression - **Python pt1** [`sklearn.cross_validation` (`train_test_split`) ; `sklearn.preprocessing` (`StandardScaler`)]
-* [087](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5684814?start=0) Logistic Regression - Python pt2 [`sklearn.linear_model` (`LogisticRegression`)]
-* [088](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5684822?start=0) Logistic Regression - Python pt3
-* [089](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5684824?start=0) Logistic Regression - Python pt4 [`sklearn.metrics` (`confusion_matrix`)]
-* [090](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5728846?start=0) Logistic Regression - **Python pt5** [`matplotlib.colors` (`ListedColormap`)]
-* [091](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5858514?start=0) **Python Classification Template**
+* [087](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5684812?start=0) Logistic Regression - **Python pt1** [`sklearn.cross_validation` (`train_test_split`) ; `sklearn.preprocessing` (`StandardScaler`)]
+* [088](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5684814?start=0) Logistic Regression - Python pt2 [`sklearn.linear_model` (`LogisticRegression`)]
+* [089](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5684822?start=0) Logistic Regression - Python pt3
+* [090](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5684824?start=0) Logistic Regression - Python pt4 [`sklearn.metrics` (`confusion_matrix`)]
+* [091](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5728846?start=0) Logistic Regression - **Python pt5** [`matplotlib.colors` (`ListedColormap`)]
+* [092](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5858514?start=0) **Python Classification Template**
 
 ---
 
-* [092](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5684826?start=0) Logistic Regression - R pt1 [`caTools`]
-* [093](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5684978?start=0) Logistic Regression - R pt2 [`glm()`]
-* [094](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685394?start=0) Logistic Regression - R pt3 [`predict()`]
-* [095](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685396?start=0) Logistic Regression - R pt4
-* [096](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5730446?start=0) Logistic Regression - **R pt5** [`ElemStatLearn` ...not available on Anaconda]
-* [097](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5858516?start=0) **R Classification Template**
+* [093](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5684826?start=0) Logistic Regression - R pt1 [`caTools`]
+* [094](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5684978?start=0) Logistic Regression - R pt2 [`glm()`]
+* [095](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685394?start=0) Logistic Regression - R pt3 [`predict()`]
+* [096](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5685396?start=0) Logistic Regression - R pt4
+* [097](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5730446?start=0) Logistic Regression - **R pt5** [`ElemStatLearn` ...not available on Anaconda]
+* [098](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5858516?start=0) **R Classification Template**
 
 
 ### §13 K-Nearest Neighbors (K-NN)
 
-* [098](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714404?start=0) K-Nearest Neighbor **intuition**
-* [099](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683128?start=0) How to get the dataset
+* [099](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5714404?start=0) K-Nearest Neighbor **intuition**
+* [100](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683128?start=0) How to get the dataset
 * [100](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5735502?start=0) K-NN in **Python** [`sklearn.neighbors` (`KNeighborsClassifier`)]
 * [101](https://www.udemy.com/machinelearning/learn/v4/t/lecture/5736648?start=0) K-NN in **R** [`class` (`knn`)]
 
