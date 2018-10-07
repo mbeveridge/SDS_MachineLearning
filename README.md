@@ -351,7 +351,7 @@
 
 ---
 
-* [184](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6027254?start=0) Thompson Sampling - **Python pt1**
+* [184](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6027254?start=0) Thompson Sampling - **Python pt1** [`random` ...to implement UCB from scratch]
 * 185 Thompson Sampling - Python pt2
 
 ---
