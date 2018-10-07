@@ -361,6 +361,35 @@
 
 
 ## Part 7: Natural Language Processing
+### §29 Natural Language Processing
+
+* 188
+* 189
+* 190
+* 191
+* 192
+* 193
+* 194
+* 195
+* 196
+* 197
+* 198
+* 199
+* 200
+* 201
+* 202
+* 203
+* 204
+* 205
+* 206
+* 207
+* 208
+* 209
+* 210
+* 211
+* 212
+
+
 ## Part 8: Deep Learning
 ## Part 9: Dimensionality Reduction
 ## Part 10: Model Selection & Boosting
