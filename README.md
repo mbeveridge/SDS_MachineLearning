@@ -356,7 +356,7 @@
 
 ---
 
-* [186](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6027262?start=0) Thompson Sampling - R pt1
+* [186](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6027262?start=0) Thompson Sampling - **R pt1**
 * 187 Thompson Sampling - R pt2
 
 
