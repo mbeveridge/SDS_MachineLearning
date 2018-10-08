@@ -370,10 +370,10 @@
 ---
 
 * [191](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6052054?start=0) NLP - Python pt1 [use tsv format, in case of "s in text]
-* [192](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6054392?start=0) NLP - Python pt2 [`re`] [1st step of cleaning]
-* [193](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6054646?start=0) NLP - Python pt3 [2nd step of cleaning]
-* [194](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6055484?start=0) NLP - Python pt4 [`nltk`] [3rd step of cleaning]
-* 195 NLP - Python pt5
+* [192](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6054392?start=0) NLP - Python pt2 [`re`] [step1 of cleaning]
+* [193](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6054646?start=0) NLP - Python pt3 [step2 of cleaning]
+* [194](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6055484?start=0) NLP - **Python pt4** [`nltk`] [step3 of cleaning]
+* [195](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6057780?start=0) NLP - Python pt5 [step4 of cleaning]
 * 196 NLP - Python pt6
 * 197 NLP - Python pt7
 * 198 NLP - Python pt8
