@@ -364,8 +364,8 @@
 ### §29 Natural Language Processing
 
 * [188](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6052110?start=0) Welcome to Part 7 - Natural Language Processing
-* 189 Natural Language Processing - intuition
-* 190 How to get the dataset
+* [189](https://www.udemy.com/machinelearning/learn/v4/t/lecture/10459594?start=0) Natural Language Processing - intuition
+* [190](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683160?start=0) How to get the dataset
 
 ---
 
