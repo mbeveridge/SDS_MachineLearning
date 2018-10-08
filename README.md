@@ -363,7 +363,7 @@
 ## Part 7: Natural Language Processing
 ### §29 Natural Language Processing
 
-* 188
+* [188](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6052110?start=0) Welcome to Part 7 - Natural Language Processing
 * 189
 * 190
 * 191
