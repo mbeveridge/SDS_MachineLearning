@@ -364,30 +364,36 @@
 ### §29 Natural Language Processing
 
 * [188](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6052110?start=0) Welcome to Part 7 - Natural Language Processing
-* 189
-* 190
-* 191
-* 192
-* 193
-* 194
-* 195
-* 196
-* 197
-* 198
-* 199
-* 200
-* 201
-* 202
-* 203
-* 204
-* 205
-* 206
-* 207
-* 208
-* 209
-* 210
-* 211
-* 212
+* 189 Natural Language Processing - intuition
+* 190 How to get the dataset
+
+---
+
+* 191 NLP - Python pt1
+* 192 NLP - Python pt2
+* 193 NLP - Python pt3
+* 194 NLP - Python pt4
+* 195 NLP - Python pt5
+* 196 NLP - Python pt6
+* 197 NLP - Python pt7
+* 198 NLP - Python pt8
+* 199 NLP - Python pt9
+* 200 NLP - Python pt10
+* 201 Homework Challenge
+
+---
+
+* 202 NLP - R pt1
+* 203 NLP - R pt2
+* 204 NLP - R pt3
+* 205 NLP - R pt4
+* 206 NLP - R pt5
+* 207 NLP - R pt6
+* 208 NLP - R pt7
+* 209 NLP - R pt8
+* 210 NLP - R pt9
+* 211 NLP - R pt10
+* 212 Homework Challenge
 
 
 ## Part 8: Deep Learning
