@@ -369,8 +369,8 @@
 
 ---
 
-* 191 NLP - Python pt1
-* 192 NLP - Python pt2
+* [191](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6052054?start=0) NLP - Python pt1 [use tsv format, in case of "s in text]
+* [192](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6054392?start=0) NLP - Python pt2
 * 193 NLP - Python pt3
 * 194 NLP - Python pt4
 * 195 NLP - Python pt5
