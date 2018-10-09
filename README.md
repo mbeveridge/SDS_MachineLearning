@@ -376,7 +376,7 @@
 * [195](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6057780?start=0) NLP - **Python pt5** [`nltk` (`PorterStemmer`)] [step4 of cleaning]
 * [196](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6058592?start=0) NLP - Python pt6 [step5 of cleaning]
 * [197](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6059444?start=0) NLP - Python pt7
-* 198 NLP - Python pt8
+* [198](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6065884?start=0) NLP - Python pt8
 * 199 NLP - Python pt9
 * 200 NLP - Python pt10
 * 201 Homework Challenge
