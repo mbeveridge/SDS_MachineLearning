@@ -374,7 +374,7 @@
 * [193](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6054646?start=0) NLP - Python pt3 [step2 of cleaning]
 * [194](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6055484?start=0) NLP - **Python pt4** [`nltk` (`stopwords`)] [step3 of cleaning]
 * [195](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6057780?start=0) NLP - **Python pt5** [`nltk` (`PorterStemmer`)] [step4 of cleaning]
-* 196 NLP - Python pt6
+* [196](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6058592?start=0) NLP - Python pt6 [step5 of cleaning]
 * 197 NLP - Python pt7
 * 198 NLP - Python pt8
 * 199 NLP - Python pt9
