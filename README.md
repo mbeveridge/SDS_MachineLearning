@@ -370,13 +370,13 @@
 ---
 
 * [191](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6052054?start=0) NLP - Python pt1 [use tsv format, in case of "s in text]
-* [192](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6054392?start=0) NLP - Python pt2 [`re`] [step1 cleaning]
-* [193](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6054646?start=0) NLP - Python pt3 [step2 cleaning]
-* [194](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6055484?start=0) NLP - **Python pt4** [`nltk` (`stopwords`)] [step3 cleaning]
-* [195](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6057780?start=0) NLP - **Python pt5** [`nltk` (`PorterStemmer`)] [step4 cleaning]
-* [196](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6058592?start=0) NLP - Python pt6 [step5 cleaning]
+* [192](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6054392?start=0) NLP - Python pt2 [`re`] [cleaning step1]
+* [193](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6054646?start=0) NLP - Python pt3 [cleaning step2]
+* [194](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6055484?start=0) NLP - **Python pt4** [`nltk` (`stopwords`)] [cleaning step3]
+* [195](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6057780?start=0) NLP - **Python pt5** [`nltk` (`PorterStemmer`)] [cleaning step4]
+* [196](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6058592?start=0) NLP - Python pt6 [cleaning step5]
 * [197](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6059444?start=0) NLP - Python pt7
-* [198](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6065884?start=0) NLP - **Python pt8** [`sklearn` (`CountVectorizer`)]
+* [198](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6065884?start=0) NLP - **Python pt8** [`sklearn` (`CountVectorizer`)] ['Bag of Words' model step1]
 * 199 NLP - Python pt9
 * 200 NLP - Python pt10
 * 201 Homework Challenge
