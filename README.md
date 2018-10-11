@@ -377,7 +377,7 @@
 * [196](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6058592?start=0) NLP - Python pt6 [cleaning step5]
 * [197](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6059444?start=0) NLP - Python pt7
 * [198](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6065884?start=0) NLP - **Python pt8** [`sklearn` (`CountVectorizer`)] ['Bag of Words' model step1]
-* 199 NLP - Python pt9
+* [199](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6067022?start=0) NLP - Python pt9
 * 200 NLP - Python pt10
 * 201 Homework Challenge
 
