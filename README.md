@@ -378,7 +378,7 @@
 * [197](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6059444?start=0) NLP - Python pt7
 * [198](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6065884?start=0) NLP - **Python pt8** [`sklearn` (`CountVectorizer`)] ['Bag of Words' model step1]
 * [199](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6067022?start=0) NLP - Python pt9 ['Bag of Words' model step2]
-* [200](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6067282?start=0) NLP - Python pt10 [`from sklearn` (`train_test_split`)]
+* [200](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6067282?start=0) NLP - **Python pt10** [`from sklearn` (`train_test_split` ; `StandardScaler` ; `GaussianNB` ; `confusion_Matrix`)]
 * 201 Homework Challenge
 
 ---
