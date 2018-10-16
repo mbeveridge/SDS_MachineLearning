@@ -384,7 +384,7 @@
 ---
 
 * [202](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6069684?start=0) NLP - R pt1 [use tsv format, in case of "s in text]
-* [203](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6073514?start=0) NLP - R pt2
+* [203](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6073514?start=0) NLP - R pt2 [`tm`] [cleaning step1]
 * 204 NLP - R pt3
 * 205 NLP - R pt4
 * 206 NLP - R pt5
