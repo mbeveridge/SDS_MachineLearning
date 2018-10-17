@@ -389,8 +389,8 @@
 * [205](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6074890?start=0) NLP - R pt4 [remove numbers]
 * [206](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6075148?start=0) NLP - R pt5 [remove punctuation]
 * [207](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6075468?start=0) NLP - R pt6 [`SnowballC`] [remove non-relevant words]
-* [208](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6075784?start=0) NLP - R pt7
-* 209 NLP - R pt8
+* [208](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6075784?start=0) NLP - R pt7 [stemming]
+* [209](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6076060?start=0) NLP - R pt8 [remove whitespace]
 * 210 NLP - R pt9
 * 211 NLP - R pt10
 * 212 Homework Challenge
