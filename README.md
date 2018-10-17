@@ -385,9 +385,9 @@
 
 * [202](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6069684?start=0) NLP - R pt1 [use tsv format, in case of "s in text]
 * [203](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6073514?start=0) NLP - R pt2 [`tm`] [cleaning step1]
-* [204](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6074630?start=0) NLP - R pt3 [cleaning step2]
-* [205](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6074890?start=0) NLP - R pt4 [cleaning step3]
-* 206 NLP - R pt5
+* [204](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6074630?start=0) NLP - R pt3 [transform to lower case]
+* [205](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6074890?start=0) NLP - R pt4 [remove numbers]
+* [206](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6075148?start=0) NLP - R pt5 [remove punctuation]
 * 207 NLP - R pt6
 * 208 NLP - R pt7
 * 209 NLP - R pt8
