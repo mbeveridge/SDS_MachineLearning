@@ -391,8 +391,8 @@
 * [207](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6075468?start=0) NLP - R pt6 [`SnowballC`] [remove non-relevant words]
 * [208](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6075784?start=0) NLP - R pt7 [stemming]
 * [209](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6076060?start=0) NLP - R pt8 [remove whitespace]
-* 210 NLP - R pt9
-* 211 NLP - R pt10
+* [210](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6080678?start=0) NLP - **R pt9** [build 'Bag of Words' model]
+* [211](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6083658?start=0) NLP - R pt10 [build classification model]
 * 212 Homework Challenge
 
 
