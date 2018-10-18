@@ -392,11 +392,23 @@
 * [208](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6075784?start=0) NLP - R pt7 [stemming]
 * [209](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6076060?start=0) NLP - R pt8 [remove whitespace]
 * [210](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6080678?start=0) NLP - **R pt9** [build 'Bag of Words' model]
-* [211](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6083658?start=0) NLP - R pt10 [`caTools` ; `randomForest`] [build classification model]
+* [211](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6083658?start=0) NLP - **R pt10** [`caTools` ; `randomForest`] [build classification model]
 * [212](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6085634?start=0) Homework Challenge
 
 
 ## Part 8: Deep Learning
+### §30 Deep Learning
+
+* [213](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6118430?start=0) Welcome to Part 8 - Deep Learning [*Artificial NN; Convolutional NN; Recurrent NN; Self Organizing Maps; Deep Boltzmann Machines; Auto Encoders*]
+* [214](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6760400?start=0) What is Deep Learning?
+
+
+### §31 Artificial Neural Networks
+
+
+### §32 Convolutional Neural Networks
+
+
 ## Part 9: Dimensionality Reduction
 ## Part 10: Model Selection & Boosting
 
