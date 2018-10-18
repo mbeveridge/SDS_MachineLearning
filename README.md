@@ -405,6 +405,37 @@
 
 ### §31 Artificial Neural Networks
 
+* [215](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6760378?start=0) Plan of attack
+* 216 The Neuron
+* 217 The Activation Function
+* 218 How do Neural Networks work?
+* 219 How do Neural Networks learn?
+* 220 Gradient Descent
+* 221 Stochastic Gradient Descent
+* 222 Backpropagation
+* 223 How to get the dataset
+* 224 Business Problem description
+
+---
+
+* 225 ANN - Python pt1 [installing Theano, Tensorflow and Keras]
+* 226 ANN - Python pt2
+* 227 ANN - Python pt3
+* 228 ANN - Python pt4
+* 229 ANN - Python pt5
+* 230 ANN - Python pt6
+* 231 ANN - Python pt7
+* 232 ANN - Python pt8
+* 233 ANN - Python pt9
+* 234 ANN - Python pt10
+
+---
+
+* 235 ANN - R pt1
+* 236 ANN - R pt2
+* 237 ANN - R pt3
+* 238 ANN - R pt4
+
 
 ### §32 Convolutional Neural Networks
 
