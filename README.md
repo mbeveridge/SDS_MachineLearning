@@ -407,7 +407,7 @@
 
 * [215](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6760378?start=0) Plan of attack
 * [216](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6760380?start=0) The Neuron
-* 217 The Activation Function
+* [217](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6760384?start=0) The Activation Function
 * 218 How do Neural Networks work?
 * 219 How do Neural Networks learn?
 * 220 Gradient Descent
