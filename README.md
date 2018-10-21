@@ -407,8 +407,8 @@
 
 * [215](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6760378?start=0) Plan of attack
 * [216](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6760380?start=0) The Neuron
-* [217](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6760384?start=0) The Activation Function
-* 218 How do Neural Networks work?
+* [217](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6760384?start=0) The Activation Function [Threshold; Sigmoid; Recitifier; Hyperbolic Tangent]
+* [218](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6760386?start=0) How do Neural Networks work?
 * 219 How do Neural Networks learn?
 * 220 Gradient Descent
 * 221 Stochastic Gradient Descent
