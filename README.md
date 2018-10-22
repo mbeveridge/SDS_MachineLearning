@@ -409,7 +409,7 @@
 * [216](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6760380?start=0) The Neuron
 * [217](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6760384?start=0) The Activation Function [Threshold; Sigmoid; Recitifier; Hyperbolic Tangent]
 * [218](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6760386?start=0) How do Neural Networks work?
-* 219 How do Neural Networks learn?
+* [219](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6760388?start=0) How do Neural Networks learn?
 * 220 Gradient Descent
 * 221 Stochastic Gradient Descent
 * 222 Backpropagation
