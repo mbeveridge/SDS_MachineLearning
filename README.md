@@ -410,9 +410,9 @@
 * [217](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6760384?start=0) The Activation Function [*Threshold; Sigmoid; Recitifier; Hyperbolic Tangent*]
 * [218](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6760386?start=0) How do Neural Networks work?
 * [219](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6760388?start=0) How do Neural Networks learn? [*Backpropagation*]
-* [220](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6760390?start=0) Gradient Descent
-* [221](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6760392?start=0) Stochastic Gradient Descent
-* 222 Backpropagation
+* [220](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6760390?start=0) Gradient Descent [*also called Batch Gradient Descent*]
+* [221](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6760392?start=0) Stochastic Gradient Descent [*PS. Mini Batch Gradient Descent is a 'middle way'*]
+* [222](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6760394?start=0) Backpropagation
 * 223 How to get the dataset
 * 224 Business Problem description
 
