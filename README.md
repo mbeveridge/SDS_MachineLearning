@@ -412,8 +412,8 @@
 * [219](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6760388?start=0) How do Neural Networks learn? [*Backpropagation*]
 * [220](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6760390?start=0) Gradient Descent [*also called Batch Gradient Descent*]
 * [221](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6760392?start=0) Stochastic Gradient Descent [*PS. Mini Batch Gradient Descent is a 'middle way'*]
-* [222](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6760394?start=0) Backpropagation
-* 223 How to get the dataset
+* [222](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6760394?start=0) Backpropagation [*It adjusts all of the weights at the same time*]
+* [223](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6683196?start=0) How to get the dataset
 * 224 Business Problem description
 
 ---
