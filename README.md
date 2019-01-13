@@ -418,23 +418,24 @@
 
 ---
 
-* 225 ANN - Python pt1 [*installing Theano, Tensorflow and Keras*]
-* 226 ANN - Python pt2
-* 227 ANN - Python pt3
-* 228 ANN - Python pt4
-* 229 ANN - Python pt5
-* 230 ANN - Python pt6
-* 231 ANN - Python pt7
-* 232 ANN - Python pt8
-* 233 ANN - Python pt9
-* 234 ANN - Python pt10
+* 225 Installing Keras
+* 226 ANN - Python pt1 [*installing Theano, Tensorflow and Keras*]
+* 227 ANN - Python pt2
+* 228 ANN - Python pt3
+* 229 ANN - Python pt4
+* 230 ANN - Python pt5
+* 231 ANN - Python pt6
+* 232 ANN - Python pt7
+* 233 ANN - Python pt8
+* 234 ANN - Python pt9
+* 235 ANN - Python pt10
 
 ---
 
-* 235 ANN - R pt1
-* 236 ANN - R pt2
-* 237 ANN - R pt3
-* 238 ANN - R pt4
+* 236 ANN - R pt1
+* 237 ANN - R pt2
+* 238 ANN - R pt3
+* 239 ANN - R pt4
 
 
 ### §32 Convolutional Neural Networks
