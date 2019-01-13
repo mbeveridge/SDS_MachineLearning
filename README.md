@@ -418,7 +418,7 @@
 
 ---
 
-* 225 Installing Keras
+* [225](https://www.udemy.com/machinelearning/learn/v4/t/lecture/12608556?start=0) Installing Keras
 * 226 ANN - Python pt1 [*installing Theano, Tensorflow and Keras*]
 * 227 ANN - Python pt2
 * 228 ANN - Python pt3
