@@ -420,9 +420,9 @@
 
 * [225](https://www.udemy.com/machinelearning/learn/v4/t/lecture/12608556?start=0) Installing Keras [*"only Keras ... since the Keras package integrates TensorFlow" (and Theano)*]
 * [226](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6118392?start=0) ANN - Python pt1 [*Ignore installation instructions here - see previous Lecture*]
-* [227](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6127182?start=0) ANN - Python pt2 [`sklearn.preprocessing` (`StandardScaler`)]
+* [227](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6127182?start=0) ANN - **Python pt2** [`sklearn.preprocessing` (`StandardScaler`)]
 * [228](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6128646?start=0) ANN - Python pt3 [`keras.models` (`Sequential`); `keras.layers` (`Dense`)]
-* [229]() ANN - Python pt4
+* [229](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6128792?start=0) ANN - Python pt4 [*Initialising the ANN*]
 * 230 ANN - Python pt5
 * 231 ANN - Python pt6
 * 232 ANN - Python pt7
