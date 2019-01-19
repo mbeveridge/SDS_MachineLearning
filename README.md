@@ -423,8 +423,8 @@
 * [227](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6127182?start=0) ANN - **Python pt2** [`sklearn.preprocessing` (`StandardScaler`)]
 * [228](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6128646?start=0) ANN - Python pt3 [`keras.models` (`Sequential`); `keras.layers` (`Dense`)]
 * [229](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6128792?start=0) ANN - Python pt4 [*Initialising the ANN*]
-* [230](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6210322?start=0) ANN - Python pt5 [*Adding the input layer & first hidden layer*]
-* 231 ANN - Python pt6
+* [230](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6210322?start=0) ANN - Python pt5 [*Adding the input layer & 1st hidden layer*]
+* [231](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6130038?start=0) ANN - Python pt6 [*Adding the 2nd hidden layer*]
 * 232 ANN - Python pt7
 * 233 ANN - Python pt8
 * 234 ANN - Python pt9
