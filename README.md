@@ -426,7 +426,7 @@
 * [230](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6210322?start=0) ANN - **Python pt5** [*Adding the input layer & 1st hidden layer*]
 * [231](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6130038?start=0) ANN - Python pt6 [*Adding the 2nd hidden layer*]
 * [232](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6132050?start=0) ANN - Python pt7 [*Adding the output layer*]
-* 233 ANN - Python pt8
+* [233](https://www.udemy.com/machinelearning/learn/v4/t/lecture/6210328?start=0) ANN - Python pt8 [*Compiling the ANN*]
 * 234 ANN - Python pt9
 * 235 ANN - Python pt10
 
